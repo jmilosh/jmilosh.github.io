@@ -9,4 +9,4 @@ github_username:  janmilosh
 
 # Build settings
 markdown: kramdown
-permalink: :baseurl/:title.html
+permalink: /:title.html
