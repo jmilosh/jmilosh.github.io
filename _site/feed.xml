@@ -3,10 +3,10 @@
   <channel>
     <title>Jan Milosh</title>
     <description>Python, JavaScript</description>
-    <link>http://janmilosh.com/</link>
-    <atom:link href="http://janmilosh.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Aug 2014 18:32:55 -0400</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2014 18:32:55 -0400</lastBuildDate>
+    <link>http://janmilosh.com/portfolio-jekyll/</link>
+    <atom:link href="http://janmilosh.com/portfolio-jekyll/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 03 Aug 2014 18:39:05 -0400</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2014 18:39:05 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -26,8 +26,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Sun, 03 Aug 2014 12:11:18 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/welcome-to-jekyll.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -38,13 +38,13 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Farkle Game for Two Players</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/farkle&quot;&gt;&lt;img src=&quot;/images/farkle.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/farkle&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/farkle.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This game was created as a code challenge - built with JavaScript/jQuery.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Sep 2013 22:21:29 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/farkle-game-for-two-players.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/farkle-game-for-two-players.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/farkle-game-for-two-players.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/farkle-game-for-two-players.html</guid>
         
         
         <category>javascript</category>
@@ -55,13 +55,13 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Coating line simulation revision</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;&lt;img src=&quot;/images/simulation-2.png&quot; alt=&quot;Coating Line Animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/simulation-2.png&quot; alt=&quot;Coating Line Animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The first version of this simulation (shown in the &lt;a href=&quot;http://janmilosh.com/coating-line-simulation-using-d3-javascript-library/&quot;&gt;previous post&lt;/a&gt;) was created to help visualize the flow of items as they underwent a coating and curing process. This version is simply a revision with a more streamlined layout and different patterning for the items’ movements. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. You can see this version &lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This revised animation will be used in the continuing analysis during the engineering/development phase of building the production line.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Aug 2013 15:08:58 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/coating-line-simulation-revision.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/coating-line-simulation-revision.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/coating-line-simulation-revision.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/coating-line-simulation-revision.html</guid>
         
         
         <category>applications</category>
@@ -76,13 +76,13 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Coating line simulation using D3 JavaScript library</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;&lt;img src=&quot;/images/box-animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/box-animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This project was created for the purpose of visualizing a coating line process. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out &lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation will be used for analysis during the engineering/development phase of building a production line.&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Aug 2013 11:19:47 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/coating-line-simulation-using-d3-javascript-library.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/coating-line-simulation-using-d3-javascript-library.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/coating-line-simulation-using-d3-javascript-library.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/coating-line-simulation-using-d3-javascript-library.html</guid>
         
         
         <category>applications</category>
@@ -97,15 +97,15 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Cleveland Give Camp project</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;/images/GASP-site.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/GASP-site.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently had the privilege of attending Cleveland Give Camp and working on a website for a great charity–&lt;a href=&quot;http://gaspohio.org&quot;&gt;GASPohio.org&lt;/a&gt;. The site is built on my custom WordPress theme (incorporating &lt;a href=&quot;http://foundation.zurb.com&quot;&gt;Foundation by Zurb&lt;/a&gt; for responsiveness).&lt;/p&gt;
 
 &lt;p&gt;The project was completed in two days with a five-person team (this included a project manager and graphic designer). There were two experienced coders on the team–with a great overall mix of talents and personalities. Two representatives from the charity worked with us for the entire weekend. It was a fun and fast-paced project.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jul 2013 10:26:09 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/cleveland-give-camp-project.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/cleveland-give-camp-project.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/cleveland-give-camp-project.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/cleveland-give-camp-project.html</guid>
         
         
         <category>client sites</category>
@@ -118,15 +118,15 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Tic-tac-toe game</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;&lt;img src=&quot;/images/kitty-tac-toe.png&quot; alt=&quot;tic-tac-toe game with cat faces&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/kitty-tac-toe.png&quot; alt=&quot;tic-tac-toe game with cat faces&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This game was written in JavaScript and was another “challenge” project. Play it here: &lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;janmilosh.com/tic-tac-toe&lt;/a&gt;. The player moves first and can choose the “easy game” option at the click of a button. In this case, the computer will always block a move or complete a row to win, but otherwise makes random moves.&lt;/p&gt;
 
 &lt;p&gt;During the player’s move, the cat image appears on hover and stays upon click. The player can change his mind and select a different position until the “Finalize Move” button is clicked. This then locks in the player’s move and allows the computer to make a move. If there is a win, an alert box appears and no more moves can be made. The “New Game” button clears the board without a page re-load.&lt;/p&gt;
 </description>
         <pubDate>Thu, 23 May 2013 17:13:19 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/tic-tac-toe-game.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/tic-tac-toe-game.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/tic-tac-toe-game.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/tic-tac-toe-game.html</guid>
         
         
         <category>applications</category>
@@ -139,13 +139,13 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Productivity calculator for therapists</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;&lt;img src=&quot;/images/productivity.png&quot; alt=&quot;Productivity application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/productivity.png&quot; alt=&quot;Productivity application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Specially designed for use on smartphones, the &lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;Productivity Calculator&lt;/a&gt; was built for therapists who are trying to meet productivity targets and need a simple way to calculate either their productivity or clock-out time. Total treatment minutes for the day are input, as well as clock-in time and optional lunch-out/in times. To calculate productivity, a clock-out time must be entered and likewise to calculate the clock-out time, a productivity must be entered. Instructions are provided on a separate page.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 May 2013 11:45:36 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/productivity-calculator-for-therapists.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/productivity-calculator-for-therapists.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/productivity-calculator-for-therapists.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/productivity-calculator-for-therapists.html</guid>
         
         
         <category>applications</category>
@@ -156,7 +156,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Music chord transposer application</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;&lt;img src=&quot;/images/transposer.png&quot; alt=&quot;Music chord transposer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/transposer.png&quot; alt=&quot;Music chord transposer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;Chord Transposer&lt;/a&gt; is a JavaScript application that I created in response to a challenge. Chords are input, separated by commas. The Key input is necessary for determining if the output key has sharps or flats. The new key and chord progression is output at the bottom of the page. &lt;/p&gt;
 
@@ -165,8 +165,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;Just for fun, there is a random background color generator button. With each click, a new background color will appear.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 May 2013 11:10:19 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/music-chord-transposer-application.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/music-chord-transposer-application.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/music-chord-transposer-application.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/music-chord-transposer-application.html</guid>
         
         
         <category>applications</category>
@@ -177,13 +177,13 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Poker hand evaluator</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;/images/poker-hand.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/poker-hand.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I was recently presented with a challenge to create a program that could evaluate two poker hands and declare a winner. This looked like a good opportunity to do even more, so I’ve come up with a JavaScript application that randomly deals two poker hands, shows the cards, and declares a winner. You can give it a try at: &lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;janmilosh.com/poker&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Apr 2013 15:30:29 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/poker-hand-evaluator.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/poker-hand-evaluator.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/poker-hand-evaluator.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/poker-hand-evaluator.html</guid>
         
         
         <category>applications</category>
@@ -196,7 +196,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
     
       <item>
         <title>Color palette creator web application</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;&lt;img src=&quot;/images/color-palette.png&quot; alt=&quot;Take-Five Color Palette Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;&lt;img src=&quot;/portfolio-jekyll/images/color-palette.png&quot; alt=&quot;Take-Five Color Palette Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The idea for my &lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;Take-Five Color Palette Creator&lt;/a&gt; came from the desire to create a color picking tool that I can really use on projects.&lt;/p&gt;
 
@@ -206,8 +206,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Fri, 12 Apr 2013 14:28:19 -0400</pubDate>
-        <link>http://janmilosh.com/:baseurl/color-palette-creator-web-applicatin.html</link>
-        <guid isPermaLink="true">http://janmilosh.com/:baseurl/color-palette-creator-web-applicatin.html</guid>
+        <link>http://janmilosh.com/portfolio-jekyll/color-palette-creator-web-applicatin.html</link>
+        <guid isPermaLink="true">http://janmilosh.com/portfolio-jekyll/color-palette-creator-web-applicatin.html</guid>
         
         
         <category>applications</category>
