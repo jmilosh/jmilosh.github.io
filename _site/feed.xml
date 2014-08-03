@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan Milosh</title>
+    <description>Python, JavaScript</description>
+    <link>http://janmilosh.comjanmilosh.github.io/</link>
+    <atom:link href="http://janmilosh.comjanmilosh.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 03 Aug 2014 18:18:41 -0400</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2014 18:18:41 -0400</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 Aug 2014 12:11:18 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Farkle Game for Two Players</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/farkle&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/farkle.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This game was created as a code challenge - built with JavaScript/jQuery.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Sep 2013 22:21:29 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/farkle-game-for-two-players.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/farkle-game-for-two-players.html</guid>
+        
+        
+        <category>javascript</category>
+        
+        <category>games</category>
+        
+      </item>
+    
+      <item>
+        <title>Coating line simulation revision</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/simulation-2.png&quot; alt=&quot;Coating Line Animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The first version of this simulation (shown in the &lt;a href=&quot;http://janmilosh.com/coating-line-simulation-using-d3-javascript-library/&quot;&gt;previous post&lt;/a&gt;) was created to help visualize the flow of items as they underwent a coating and curing process. This version is simply a revision with a more streamlined layout and different patterning for the items’ movements. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. You can see this version &lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This revised animation will be used in the continuing analysis during the engineering/development phase of building the production line.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Aug 2013 15:08:58 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/coating-line-simulation-revision.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/coating-line-simulation-revision.html</guid>
+        
+        
+        <category>applications</category>
+        
+        <category>animation</category>
+        
+        <category>javascript</category>
+        
+        <category>d3.js</category>
+        
+      </item>
+    
+      <item>
+        <title>Coating line simulation using D3 JavaScript library</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/box-animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This project was created for the purpose of visualizing a coating line process. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out &lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation will be used for analysis during the engineering/development phase of building a production line.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Aug 2013 11:19:47 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/coating-line-simulation-using-d3-javascript-library.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/coating-line-simulation-using-d3-javascript-library.html</guid>
+        
+        
+        <category>applications</category>
+        
+        <category>animation</category>
+        
+        <category>d3.js</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>Cleveland Give Camp project</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/GASP-site.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I recently had the privilege of attending Cleveland Give Camp and working on a website for a great charity–&lt;a href=&quot;http://gaspohio.org&quot;&gt;GASPohio.org&lt;/a&gt;. The site is built on my custom WordPress theme (incorporating &lt;a href=&quot;http://foundation.zurb.com&quot;&gt;Foundation by Zurb&lt;/a&gt; for responsiveness).&lt;/p&gt;
+
+&lt;p&gt;The project was completed in two days with a five-person team (this included a project manager and graphic designer). There were two experienced coders on the team–with a great overall mix of talents and personalities. Two representatives from the charity worked with us for the entire weekend. It was a fun and fast-paced project.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jul 2013 10:26:09 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/cleveland-give-camp-project.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/cleveland-give-camp-project.html</guid>
+        
+        
+        <category>client sites</category>
+        
+        <category>wordpress</category>
+        
+        <category>charity</category>
+        
+      </item>
+    
+      <item>
+        <title>Tic-tac-toe game</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/kitty-tac-toe.png&quot; alt=&quot;tic-tac-toe game with cat faces&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This game was written in JavaScript and was another “challenge” project. Play it here: &lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;janmilosh.com/tic-tac-toe&lt;/a&gt;. The player moves first and can choose the “easy game” option at the click of a button. In this case, the computer will always block a move or complete a row to win, but otherwise makes random moves.&lt;/p&gt;
+
+&lt;p&gt;During the player’s move, the cat image appears on hover and stays upon click. The player can change his mind and select a different position until the “Finalize Move” button is clicked. This then locks in the player’s move and allows the computer to make a move. If there is a win, an alert box appears and no more moves can be made. The “New Game” button clears the board without a page re-load.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 May 2013 17:13:19 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/tic-tac-toe-game.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/tic-tac-toe-game.html</guid>
+        
+        
+        <category>applications</category>
+        
+        <category>games</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>Productivity calculator for therapists</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/productivity.png&quot; alt=&quot;Productivity application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Specially designed for use on smartphones, the &lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;Productivity Calculator&lt;/a&gt; was built for therapists who are trying to meet productivity targets and need a simple way to calculate either their productivity or clock-out time. Total treatment minutes for the day are input, as well as clock-in time and optional lunch-out/in times. To calculate productivity, a clock-out time must be entered and likewise to calculate the clock-out time, a productivity must be entered. Instructions are provided on a separate page.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 May 2013 11:45:36 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/productivity-calculator-for-therapists.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/productivity-calculator-for-therapists.html</guid>
+        
+        
+        <category>applications</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>Music chord transposer application</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/transposer.png&quot; alt=&quot;Music chord transposer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;Chord Transposer&lt;/a&gt; is a JavaScript application that I created in response to a challenge. Chords are input, separated by commas. The Key input is necessary for determining if the output key has sharps or flats. The new key and chord progression is output at the bottom of the page. &lt;/p&gt;
+
+&lt;p&gt;This app can handle complicated jazz chords as well as slash chords and can transpose either upward or downward in half-step increments.&lt;/p&gt;
+
+&lt;p&gt;Just for fun, there is a random background color generator button. With each click, a new background color will appear.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 May 2013 11:10:19 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/music-chord-transposer-application.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/music-chord-transposer-application.html</guid>
+        
+        
+        <category>applications</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>Poker hand evaluator</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/poker-hand.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I was recently presented with a challenge to create a program that could evaluate two poker hands and declare a winner. This looked like a good opportunity to do even more, so I’ve come up with a JavaScript application that randomly deals two poker hands, shows the cards, and declares a winner. You can give it a try at: &lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;janmilosh.com/poker&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Apr 2013 15:30:29 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/poker-hand-evaluator.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/poker-hand-evaluator.html</guid>
+        
+        
+        <category>applications</category>
+        
+        <category>games</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+      <item>
+        <title>Color palette creator web application</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;&lt;img src=&quot;janmilosh.github.io/images/color-palette.png&quot; alt=&quot;Take-Five Color Palette Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The idea for my &lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;Take-Five Color Palette Creator&lt;/a&gt; came from the desire to create a color picking tool that I can really use on projects.&lt;/p&gt;
+
+&lt;p&gt;With the ability to choose (and keep) five colors on the screen at once, this application has practical value for anyone trying to come up with a color palette. If the user doesn’t care for a chosen color or wants fewer colors appearing, the clear button on each block brings the color back to black.&lt;/p&gt;
+
+&lt;p&gt;I built this with my own workflow in mind and will use it for inspiration in my own designs. It will be much easier and quicker than my old method of creating blocks of color in my vector drawing program. Hopefully others will also find it useful.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 Apr 2013 14:28:19 -0400</pubDate>
+        <link>http://janmilosh.comjanmilosh.github.io/color-palette-creator-web-applicatin.html</link>
+        <guid isPermaLink="true">http://janmilosh.comjanmilosh.github.io/color-palette-creator-web-applicatin.html</guid>
+        
+        
+        <category>applications</category>
+        
+        <category>javascript</category>
+        
+      </item>
+    
+  </channel>
+</rss>
