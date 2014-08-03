@@ -2,11 +2,11 @@
 title: Jan Milosh
 email: janmilosh@gmail.com
 description: "Python, JavaScript"
-baseurl: ""
+baseurl: "/portfolio-jekyll"
 url: "http://janmilosh.com"
 twitter_username: janmilosh
 github_username:  janmilosh
 
 # Build settings
 markdown: kramdown
-permalink: /:title.html
+permalink: :baseurl/:title.html
