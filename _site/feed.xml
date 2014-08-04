@@ -5,8 +5,8 @@
     <description>Python, JavaScript</description>
     <link>http://janmilosh.com/</link>
     <atom:link href="http://janmilosh.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 03 Aug 2014 21:03:38 -0400</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2014 21:03:38 -0400</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2014 21:04:47 -0400</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2014 21:04:47 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -42,7 +42,7 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 &lt;p&gt;This game was created as a code challenge - built with JavaScript/jQuery.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 05 Sep 2013 22:21:29 -0400</pubDate>
+        <pubDate>Thu, 05 Sep 2013 18:21:29 -0400</pubDate>
         <link>http://janmilosh.com/farkle-game-for-two-players.html</link>
         <guid isPermaLink="true">http://janmilosh.com/farkle-game-for-two-players.html</guid>
         

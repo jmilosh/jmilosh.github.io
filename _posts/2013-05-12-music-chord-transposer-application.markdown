@@ -1,5 +1,5 @@
 ---
-date: 2013-05-12 15:10:19+00:00
+date: 2013-05-12 15:10:19
 layout: post
 title: Music chord transposer application
 categories:
