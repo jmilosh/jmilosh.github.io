@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Farkle Game for Two Players"
-date: 2013-09-05 22:21:29 -0400
+title: Farkle Game for Two Players
+date: 2013-09-05 22:21:29
 categories: 
 - JavaScript
 - Games

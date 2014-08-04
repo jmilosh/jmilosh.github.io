@@ -1,5 +1,5 @@
 ---
-date: 2013-05-23 21:13:19+00:00
+date: 2013-05-23 21:13:19
 layout: post
 title: Tic-tac-toe game
 categories:

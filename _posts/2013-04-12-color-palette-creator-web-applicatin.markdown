@@ -1,5 +1,5 @@
 ---
-date: 2013-04-12 18:28:19+00:00
+date: 2013-04-12 18:28:19
 layout: post
 title: Color palette creator web application
 categories:
