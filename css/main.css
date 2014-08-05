@@ -26,7 +26,6 @@ img {
   display: block;
   float: left;
   margin-right: 15px;
-  margin-bottom: 15px;
 }
 
 /* Utility */
@@ -190,7 +189,7 @@ img {
 
 .post-content { margin: 0 0 30px; }
 
-.post-content > * { margin: 20px 0; }
+.post-content > * { margin: 0 0 16px; }
 
 
 .post-content h1,

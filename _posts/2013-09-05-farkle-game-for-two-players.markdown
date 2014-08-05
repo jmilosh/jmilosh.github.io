@@ -6,6 +6,7 @@ categories:
 - JavaScript
 - Games
 ---
-<a href="http://janmilosh.com/farkle"><img src="{{site.baseurl}}/images/farkle.png" /></a>
+
+[![Farkle game]({{site.baseurl}}/images/farkle.png)](http://janmilosh.com/farkle)
 
 This game was created as a code challenge - built with JavaScript/jQuery.
