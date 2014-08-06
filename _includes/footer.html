@@ -48,7 +48,18 @@
     </div>
 
     <div class="footer-col-3 column">
-      
+      <ul class="dropdown-menu">
+        {% for category in site.categories %}
+          <li class="camelize_me">
+            <a href="/{{category | first}}/">
+              {{category | first }}
+              <span class="badge">
+              {{ category | last | size }}
+              </span>
+            </a>
+          </li>
+        {% endfor %} 
+      </ul>
     </div>
 
   </div>
