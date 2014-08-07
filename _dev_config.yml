@@ -3,7 +3,7 @@ title: Jan Milosh
 email: janmilosh@gmail.com
 description: "Python, JavaScript"
 baseurl: ""
-url: "https://janmilosh.github.io/portfolio-jekyll"
+url: "http://0.0.0.0:4000"
 twitter_username: janmilosh
 github_username:  janmilosh
 paginate: 5

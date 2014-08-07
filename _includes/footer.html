@@ -51,7 +51,7 @@
       <ul class="dropdown-menu">
         {% for category in site.categories %}
           <li class="camelize_me">
-            <a href="{{baseurl}}/{{category | first}}/">
+            <a href="{{site.url}}/{{category | first}}/">
               {{category | first }}
               <span class="badge">
               {{ category | last | size }}
