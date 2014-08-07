@@ -7,6 +7,6 @@ categories:
 - Games
 ---
 
-[![Farkle game]({{site.baseurl}}/images/farkle.png)](http://janmilosh.com/farkle)
+[![Farkle game]({{site.url}}/images/farkle.png)](http://janmilosh.com/farkle)
 
 This game was created as a code challenge - built with JavaScript/jQuery.
