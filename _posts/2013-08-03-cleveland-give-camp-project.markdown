@@ -8,7 +8,7 @@ categories:
 - Charity
 ---
 
-[![GASPohio.org screenshot]({{site.url}}/images/GASP-site.png)](http://gaspohio.org)
+[![GASPohio.org screenshot]({{site.url}}{{base.url}}/images/GASP-site.png)](http://gaspohio.org)
 
 I recently had the privilege of attending Cleveland Give Camp and working on a website for a great charity--[GASPohio.org](http://gaspohio.org). The site is built on my custom WordPress theme (incorporating [Foundation by Zurb](http://foundation.zurb.com) for responsiveness).
 

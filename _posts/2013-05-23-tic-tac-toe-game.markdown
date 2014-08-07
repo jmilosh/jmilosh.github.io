@@ -8,7 +8,7 @@ categories:
 - JavaScript
 ---
 
-[![tic-tac-toe game with cat faces]({{site.url}}/images/kitty-tac-toe.png)](http://janmilosh.com/tic-tac-toe)
+[![tic-tac-toe game with cat faces]({{site.url}}{{base.url}}/images/kitty-tac-toe.png)](http://janmilosh.com/tic-tac-toe)
 
 This game was written in JavaScript and was another "challenge" project. Play it here: [janmilosh.com/tic-tac-toe](http://janmilosh.com/tic-tac-toe). The player moves first and can choose the "easy game" option at the click of a button. In this case, the computer will always block a move or complete a row to win, but otherwise makes random moves.
 
