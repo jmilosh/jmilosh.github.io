@@ -7,9 +7,9 @@ categories:
 - WordPress
 ---
 
-[![Round House Project Site]({{site.url}}{{base.url}}/images/house-screenshot2.jpg)](http://house.milosh.me)
+[![Round House Project Site]({{ "/images/house-screenshot2.jpg" | prepend: site.baseurl | prepend: site.url }})](http://house.milosh.me)
 
-[![Round House Project]({{site.url}}{{base.url}}/images/house-screenshot.jpg)](http://house.milosh.me)
+[![Round House Project]({{ "/images/house-screenshot.jpg" | prepend: site.baseurl | prepend: site.url }})](http://house.milosh.me)
 
 [Round House Project](http://milosh.me/house) is a photo blog (journal) of our home construction project. This is another custom WordPress website. One special feature is the option to change themes (color schemes) via a selector in the right header. There are five themes to choose from.
 

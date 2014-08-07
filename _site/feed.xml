@@ -5,13 +5,13 @@
     <description>Python, JavaScript</description>
     <link>https://janmilosh.github.io/portfolio-jekyll/</link>
     <atom:link href="https://janmilosh.github.io/portfolio-jekyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Aug 2014 21:28:39 -0400</pubDate>
-    <lastBuildDate>Wed, 06 Aug 2014 21:28:39 -0400</lastBuildDate>
+    <pubDate>Wed, 06 Aug 2014 21:49:49 -0400</pubDate>
+    <lastBuildDate>Wed, 06 Aug 2014 21:49:49 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>Farkle Game for Two Players</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/farkle&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/farkle.png&quot; alt=&quot;Farkle game&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/farkle&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/farkle.png&quot; alt=&quot;Farkle game&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This game was created as a code challenge - built with JavaScript/jQuery.&lt;/p&gt;
 </description>
@@ -28,7 +28,7 @@
     
       <item>
         <title>Coating line simulation revision</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/simulation-2.png&quot; alt=&quot;Coating Line Animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/simulation-2.png&quot; alt=&quot;Coating Line Animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The first version of this simulation (shown in the &lt;a href=&quot;http://janmilosh.com/coating-line-simulation-using-d3-javascript-library/&quot;&gt;previous post&lt;/a&gt;) was created to help visualize the flow of items as they underwent a coating and curing process. This version is simply a revision with a more streamlined layout and different patterning for the items’ movements. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. You can see this version &lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This revised animation will be used in the continuing analysis during the engineering/development phase of building the production line.&lt;/p&gt;
 </description>
@@ -49,7 +49,7 @@
     
       <item>
         <title>Coating line simulation using D3 JavaScript library</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/box-animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/box-animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This project was created for the purpose of visualizing a coating line process. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out &lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation will be used for analysis during the engineering/development phase of building a production line.&lt;/p&gt;
 </description>
@@ -70,7 +70,7 @@
     
       <item>
         <title>Cleveland Give Camp project</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/GASP-site.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/GASP-site.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently had the privilege of attending Cleveland Give Camp and working on a website for a great charity–&lt;a href=&quot;http://gaspohio.org&quot;&gt;GASPohio.org&lt;/a&gt;. The site is built on my custom WordPress theme (incorporating &lt;a href=&quot;http://foundation.zurb.com&quot;&gt;Foundation by Zurb&lt;/a&gt; for responsiveness).&lt;/p&gt;
 
@@ -91,7 +91,7 @@
     
       <item>
         <title>Tic-tac-toe game</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/kitty-tac-toe.png&quot; alt=&quot;tic-tac-toe game with cat faces&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/kitty-tac-toe.png&quot; alt=&quot;tic-tac-toe game with cat faces&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This game was written in JavaScript and was another “challenge” project. Play it here: &lt;a href=&quot;http://janmilosh.com/tic-tac-toe&quot;&gt;janmilosh.com/tic-tac-toe&lt;/a&gt;. The player moves first and can choose the “easy game” option at the click of a button. In this case, the computer will always block a move or complete a row to win, but otherwise makes random moves.&lt;/p&gt;
 
@@ -112,7 +112,7 @@
     
       <item>
         <title>Productivity calculator for therapists</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/productivity.png&quot; alt=&quot;Productivity application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/productivity.png&quot; alt=&quot;Productivity application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Specially designed for use on smartphones, the &lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;Productivity Calculator&lt;/a&gt; was built for therapists who are trying to meet productivity targets and need a simple way to calculate either their productivity or clock-out time. Total treatment minutes for the day are input, as well as clock-in time and optional lunch-out/in times. To calculate productivity, a clock-out time must be entered and likewise to calculate the clock-out time, a productivity must be entered. Instructions are provided on a separate page.&lt;/p&gt;
 </description>
@@ -129,7 +129,7 @@
     
       <item>
         <title>Music chord transposer application</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/transposer.png&quot; alt=&quot;Music chord transposer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/transposer.png&quot; alt=&quot;Music chord transposer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;Chord Transposer&lt;/a&gt; is a JavaScript application that I created in response to a challenge. Chords are input, separated by commas. The Key input is necessary for determining if the output key has sharps or flats. The new key and chord progression is output at the bottom of the page. &lt;/p&gt;
 
@@ -150,7 +150,7 @@
     
       <item>
         <title>Poker hand evaluator</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/poker-hand.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/poker-hand.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I was recently presented with a challenge to create a program that could evaluate two poker hands and declare a winner. This looked like a good opportunity to do even more, so I’ve come up with a JavaScript application that randomly deals two poker hands, shows the cards, and declares a winner. You can give it a try at: &lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;janmilosh.com/poker&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -169,7 +169,7 @@
     
       <item>
         <title>Color palette creator web application</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/color-palette.png&quot; alt=&quot;Take-Five Color Palette Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/color-palette.png&quot; alt=&quot;Take-Five Color Palette Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The idea for my &lt;a href=&quot;http://janmilosh.com/color-palette&quot;&gt;Take-Five Color Palette Creator&lt;/a&gt; came from the desire to create a color picking tool that I can really use on projects.&lt;/p&gt;
 
@@ -191,7 +191,7 @@
     
       <item>
         <title>Loan and Savings Calculator</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/time-value-of-money&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/images/tvm-calculator.png&quot; alt=&quot;Loan and savings calculator&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/time-value-of-money&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/tvm-calculator.png&quot; alt=&quot;Loan and savings calculator&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here’s a little JavaScript project that I just completed. It’s a single page site that provides a calculator for comparing either loan or savings scenarios. Data can be entered in three different ways in each table such that the user can calculate either the payment (or deposit), loan (or savings) term, and loan (or savings) amount. The results accumulate in a table so that comparisons can be made. &lt;a href=&quot;http://janmilosh.com/time-value-of-money&quot;&gt;Give it a try!&lt;/a&gt;&lt;/p&gt;
 </description>

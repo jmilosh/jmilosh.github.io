@@ -7,7 +7,7 @@ categories:
 - WordPress
 ---
 
-[![Mitech Systems, Ltd. Screenshot]({{site.url}}{{base.url}}/images/machinedesignohio-screenshot.png)](http://machinedesignohio.com)
+[![Mitech Systems, Ltd. Screenshot]({{ "/images/machinedesignohio-screenshot.png" | prepend: site.baseurl | prepend: site.url }})](http://machinedesignohio.com)
 
 This is a re-design of my first website, [machinedesignohio.com (Mitech Systems, Ltd.)](http://machinedesignohio.com). The site was originally an all static-page site, but was re-built with a custom theme and custom post types. There is one custom post type for projects and another for resources, each with it's own separate indexing system (custom taxonomies).
 
