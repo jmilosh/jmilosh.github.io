@@ -3,20 +3,18 @@ layout: default
 title: Project List
 permalink: /list/
 ---
-
-<div class="home">
+<div class="page">
 
   <h1>Projects</h1>
 
-  <ul class="posts">
+  <div class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <p class="post-category">{{ post.categories}}</p>
+      <h2>
+        
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
+      </h2>
     {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </div>
 
 </div>

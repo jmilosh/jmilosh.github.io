@@ -4,13 +4,14 @@ layout: default
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <div style="margin-bottom: 30px; height: auto;">
+  <div class="post">
+    
     <h1><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a></h1>
-    <p class="meta">{{ post.date | date: "%-d %B %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+    
     <div class="content">
       {{ post.content }}
     </div>
-    <div style="clear: both"></div>
+    
   </div> 
 {% endfor %}
 
@@ -24,7 +25,7 @@ layout: default
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <em>{{ page }}</em>
+      <span class="selected">{{ page }}</span>
     {% elsif page == 1 %}
       <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
     {% else %}

@@ -15,7 +15,8 @@
 </head>
 
 
-    <body>
+  <body>
+    
     <div class="sidebar">
 
   <h1 class="site-title"><a href="http://0.0.0.0:4000/">Jan Milosh</a></h1>
@@ -61,15 +62,15 @@
 
   <div class="left-menu">
     <ul>
-      <li><a href="http://0.0.0.0:4000/about">About</a></li>
-      <li><a href="http://0.0.0.0:4000/list">Project List</a></li>
+      <a href="http://0.0.0.0:4000/about"><li>About</li></a>
+      <a href="http://0.0.0.0:4000/list"><li>Project List</li></a>
     </ul>
   </div>
 
-  <div>
+  <div class="categories">
     <ul>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/personal sites/">
             personal sites
             <span class="quantity">
@@ -78,7 +79,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/wordpress/">
             wordpress
             <span class="quantity">
@@ -87,7 +88,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/client sites/">
             client sites
             <span class="quantity">
@@ -96,7 +97,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/applications/">
             applications
             <span class="quantity">
@@ -105,7 +106,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/javascript/">
             javascript
             <span class="quantity">
@@ -114,7 +115,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/games/">
             games
             <span class="quantity">
@@ -123,7 +124,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/charity/">
             charity
             <span class="quantity">
@@ -132,7 +133,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/animation/">
             animation
             <span class="quantity">
@@ -141,7 +142,7 @@
           </a>
         </li>
       
-        <li class="camelize_me">
+        <li>
           <a href="http://0.0.0.0:4000/d3.js/">
             d3.js
             <span class="quantity">
@@ -152,80 +153,58 @@
        
     </ul>
   </div>
-
-  
-  <div class="pagination">
-    
-      <span>&laquo; Prev</span>
-    
-
-    
-      
-        <em>1</em>
-      
-    
-      
-        <a href="/page2">2</a>
-      
-    
-      
-        <a href="/page3">3</a>
-      
-    
-
-    
-      <a href="/page2">Next &raquo;</a>
-    
-  </div>
-
-
 </div>
 
 
 
     <div class="page-content">
       
-      <!-- This loops through the paginated posts -->
+      <div class="wrapper">      
+        <!-- This loops through the paginated posts -->
 
-  <div style="margin-bottom: 30px; height: auto;">
+  <div class="post">
+    
     <h1><a href="/farkle-game-for-two-players.html">Farkle Game for Two Players</a></h1>
-    <p class="meta">5 September 2013</p>
+    
     <div class="content">
       <p><a href="http://janmilosh.com/farkle"><img src="http://0.0.0.0:4000/images/farkle.png" alt="Farkle game" /></a></p>
 
 <p>This game was created as a code challenge - built with JavaScript/jQuery.</p>
 
     </div>
-    <div style="clear: both"></div>
+    
   </div> 
 
-  <div style="margin-bottom: 30px; height: auto;">
+  <div class="post">
+    
     <h1><a href="/coating-line-simulation-revision.html">Coating line simulation revision</a></h1>
-    <p class="meta">11 August 2013</p>
+    
     <div class="content">
       <p><a href="http://janmilosh.com/simulation-2"><img src="http://0.0.0.0:4000/images/simulation-2.png" alt="Coating Line Animation" /></a></p>
 
 <p>The first version of this simulation (shown in the <a href="http://janmilosh.com/coating-line-simulation-using-d3-javascript-library/">previous post</a>) was created to help visualize the flow of items as they underwent a coating and curing process. This version is simply a revision with a more streamlined layout and different patterning for the items’ movements. It is an animation, created with <a href="http://d3.js">D3.js</a>, a JavaScript library for data visualization. You can see this version <a href="http://janmilosh.com/simulation-2">here</a> (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This revised animation will be used in the continuing analysis during the engineering/development phase of building the production line.</p>
 
     </div>
-    <div style="clear: both"></div>
+    
   </div> 
 
-  <div style="margin-bottom: 30px; height: auto;">
+  <div class="post">
+    
     <h1><a href="/coating-line-simulation-using-d3-javascript-library.html">Coating line simulation using D3 JavaScript library</a></h1>
-    <p class="meta">3 August 2013</p>
+    
     <div class="content">
       <p><a href="http://janmilosh.com/simulation"><img src="http://0.0.0.0:4000/images/box-animation.png" alt="Coating line simulation animation" /></a></p>
 
 <p>This project was created for the purpose of visualizing a coating line process. It is an animation, created with <a href="http://d3.js">D3.js</a>, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out <a href="http://janmilosh.com/simulation">here</a> (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation will be used for analysis during the engineering/development phase of building a production line.</p>
 
     </div>
-    <div style="clear: both"></div>
+    
   </div> 
 
-  <div style="margin-bottom: 30px; height: auto;">
+  <div class="post">
+    
     <h1><a href="/cleveland-give-camp-project.html">Cleveland Give Camp project</a></h1>
-    <p class="meta">24 July 2013</p>
+    
     <div class="content">
       <p><a href="http://gaspohio.org"><img src="http://0.0.0.0:4000/images/GASP-site.png" alt="GASPohio.org screenshot" /></a></p>
 
@@ -234,12 +213,13 @@
 <p>The project was completed in two days with a five-person team (this included a project manager and graphic designer). There were two experienced coders on the team–with a great overall mix of talents and personalities. Two representatives from the charity worked with us for the entire weekend. It was a fun and fast-paced project.</p>
 
     </div>
-    <div style="clear: both"></div>
+    
   </div> 
 
-  <div style="margin-bottom: 30px; height: auto;">
+  <div class="post">
+    
     <h1><a href="/tic-tac-toe-game.html">Tic-tac-toe game</a></h1>
-    <p class="meta">23 May 2013</p>
+    
     <div class="content">
       <p><a href="http://janmilosh.com/tic-tac-toe"><img src="http://0.0.0.0:4000/images/kitty-tac-toe.png" alt="tic-tac-toe game with cat faces" /></a></p>
 
@@ -248,7 +228,7 @@
 <p>During the player’s move, the cat image appears on hover and stays upon click. The player can change his mind and select a different position until the “Finalize Move” button is clicked. This then locks in the player’s move and allows the computer to make a move. If there is a win, an alert box appears and no more moves can be made. The “New Game” button clears the board without a page re-load.</p>
 
     </div>
-    <div style="clear: both"></div>
+    
   </div> 
 
 
@@ -260,7 +240,7 @@
 
   
     
-      <em>1</em>
+      <span class="selected">1</span>
     
   
     
@@ -278,8 +258,15 @@
 </div>
 
 
+      </div>
+
+      <div class="footer">
+  <p>&copy;2014 Jan Milosh</p>
+</div>
+
       
     </div>
 
-    </body>
+  </body>
+
 </html>
