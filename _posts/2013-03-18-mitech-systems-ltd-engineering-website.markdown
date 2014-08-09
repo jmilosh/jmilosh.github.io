@@ -3,7 +3,6 @@ date: 2013-03-18 15:48:24
 layout: post
 title: Mitech Systems, Ltd. Engineering Website
 categories:
-- Client Sites
 - WordPress
 ---
 

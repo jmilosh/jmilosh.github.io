@@ -3,9 +3,7 @@ date: 2013-07-24 14:26:09
 layout: post
 title: Cleveland Give Camp project
 categories:
-- Client Sites
 - WordPress
-- Charity
 ---
 
 [![GASPohio.org screenshot]({{ "/images/GASP-site.png" | prepend: site.baseurl | prepend: site.url }})](http://gaspohio.org)

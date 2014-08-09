@@ -8,13 +8,21 @@ permalink: /list/
   <h1>Projects</h1>
 
   <div class="post-list">
+
     {% for post in site.posts %}
-      <p class="post-category">{{ post.categories}}</p>
+      
+      <p class="post-category">
+        {% for category in post.categories%}
+          {{ category }}<span class="bullet">&nbsp;&bullet;</span>
+        {% endfor %}
+      </p>
+      
       <h2>
-        
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
+
     {% endfor %}
+  
   </div>
 
 </div>

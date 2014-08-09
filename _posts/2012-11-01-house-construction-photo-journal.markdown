@@ -3,7 +3,6 @@ date: 2012-11-01 08:46:51
 layout: post
 title: House Construction Photo Journal
 categories:
-- Personal Sites
 - WordPress
 ---
 

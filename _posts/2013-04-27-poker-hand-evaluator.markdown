@@ -3,7 +3,6 @@ date: 2013-04-27 19:30:29
 layout: post
 title: Poker hand evaluator
 categories:
-- Applications
 - Games
 - JavaScript
 ---

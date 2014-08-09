@@ -3,8 +3,6 @@ date: 2013-08-03 15:19:47
 layout: post
 title: Coating line simulation using D3 JavaScript library
 categories:
-- Applications
-- Animation
 - D3.js
 - JavaScript
 ---

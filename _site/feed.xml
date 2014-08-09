@@ -5,8 +5,8 @@
     <description>Python, JavaScript</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 09 Aug 2014 18:46:05 -0400</pubDate>
-    <lastBuildDate>Sat, 09 Aug 2014 18:46:05 -0400</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2014 19:13:46 -0400</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2014 19:13:46 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -37,10 +37,6 @@
         <guid isPermaLink="true">http://0.0.0.0:4000/coating-line-simulation-revision.html</guid>
         
         
-        <category>applications</category>
-        
-        <category>animation</category>
-        
         <category>javascript</category>
         
         <category>d3.js</category>
@@ -57,10 +53,6 @@
         <link>http://0.0.0.0:4000/coating-line-simulation-using-d3-javascript-library.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/coating-line-simulation-using-d3-javascript-library.html</guid>
         
-        
-        <category>applications</category>
-        
-        <category>animation</category>
         
         <category>d3.js</category>
         
@@ -81,11 +73,7 @@
         <guid isPermaLink="true">http://0.0.0.0:4000/cleveland-give-camp-project.html</guid>
         
         
-        <category>client sites</category>
-        
         <category>wordpress</category>
-        
-        <category>charity</category>
         
       </item>
     
@@ -101,8 +89,6 @@
         <link>http://0.0.0.0:4000/tic-tac-toe-game.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/tic-tac-toe-game.html</guid>
         
-        
-        <category>applications</category>
         
         <category>games</category>
         
@@ -158,8 +144,6 @@
         <link>http://0.0.0.0:4000/poker-hand-evaluator.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/poker-hand-evaluator.html</guid>
         
-        
-        <category>applications</category>
         
         <category>games</category>
         

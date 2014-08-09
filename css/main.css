@@ -83,6 +83,10 @@ svg {
   text-transform: capitalize;
 }
 
+.bullet:last-child {
+  display: none;
+}
+
 h1.site-title {
   text-transform:lowercase;
   font-size: 45px;
