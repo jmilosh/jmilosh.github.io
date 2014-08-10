@@ -1,7 +1,7 @@
 # Site settings
 title: Jan Milosh
 email: janmilosh@gmail.com
-description: "Python, JavaScript"
+description: "Full-stack Developer"
 baseurl: "/portfolio-jekyll"
 url: "https://janmilosh.github.io"
 twitter_username: janmilosh

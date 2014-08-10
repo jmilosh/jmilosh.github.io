@@ -105,7 +105,7 @@ h1.site-title {
 }
 
 h2.description {
-  font-size: 24px;
+  font-size: 22px;
   color: #F1F7B1;
   letter-spacing: 1px;
 }
@@ -125,7 +125,7 @@ h2.description {
   display: block;
   margin: 10px auto 30px;
   max-width: 100%;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
 
 .date {
@@ -151,7 +151,7 @@ h2.description {
 
 .post,
 .page {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .wrapper {
@@ -213,6 +213,10 @@ button:focus {
 .footer p {
   color: white;
   font-weight: 300;
+}
+
+.footer a {
+  color: white;
 }
 
 /* media queries */

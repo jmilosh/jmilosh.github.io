@@ -2,9 +2,9 @@
 layout: post
 title: Farkle game for two players
 date: 2013-09-05
-categories: 
+categories:
+- jQuery
 - JavaScript
-- Games
 ---
 
 [![Farkle game]({{ "/images/farkle.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.com/farkle)

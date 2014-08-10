@@ -3,7 +3,6 @@ date: 2013-08-11
 layout: post
 title: Coating line simulation revision
 categories:
-- JavaScript
 - D3.js
 ---
 

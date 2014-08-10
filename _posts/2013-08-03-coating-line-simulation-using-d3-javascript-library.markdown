@@ -4,7 +4,6 @@ layout: post
 title: Coating line simulation using D3 JavaScript library
 categories:
 - D3.js
-- JavaScript
 ---
 
 [![Coating line simulation animation]({{ "/images/box-animation.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.com/simulation)
