@@ -9,7 +9,7 @@
   box-sizing: border-box;
  }
 
- .page-content:after {
+ .clearfix:after {
   content: "";
   display: table;
   clear: both;
@@ -22,7 +22,7 @@ html, body {
 body {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.4;
   background: #9D9870;
 }
 
@@ -31,6 +31,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #8A7B2A;
   text-align: center;
   margin-bottom: 30px;
+  line-height: 1.2;
 }
 
 p {
@@ -57,10 +58,17 @@ a:visited {
   text-decoration: none;
 }
 
-.sidebar li a,
-.sidebar li a:hover,
-.sidebar li a:visited { 
+.sidebar table a,
+.sidebar table a:hover,
+.sidebar table a:visited { 
   color: #DCD091;
+  font-size: 18px;
+  font-weight: 200;
+}
+
+.sidebar table {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a:hover {
@@ -79,10 +87,6 @@ svg {
   margin: 0 10px 20px;
 }
 
-.category-archive .title {
-  text-transform: capitalize;
-}
-
 .bullet:last-child {
   display: none;
 }
@@ -90,9 +94,8 @@ svg {
 h1.site-title {
   text-transform:lowercase;
   font-size: 45px;
+  margin-bottom: 16px;
   letter-spacing: 3px;
-  line-height: 1.5;
-  margin-bottom: 5px;
 }
 
 .page h1 {
@@ -133,7 +136,7 @@ h2.description {
   width: 33%;
   height: 100%;
   float: left;
-  padding:50px;
+  padding:50px 15px;
   background: #333;
   background: url('../images/diagmonds.png');
 }
@@ -156,14 +159,44 @@ h2.description {
 .sidebar ul {
   list-style-type: none;
   text-align: center;
+  margin-bottom: 20px;
 }
 
 .left-menu ul li {
   display: inline-block;
-  padding: 8px 0;
-  margin: 0 10px 20px;
+  padding: 0;
+  margin: 0 10px 10px;
   font-size: 18px;
   text-transform: uppercase;
+}
+
+button.quantity {
+  margin-left: 10px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  color: #DCD091;
+  background: #444;
+  border: none;
+}
+
+button {
+  width: 75px;
+  height: 25px;
+  font-size: 14px;
+  border: 1px solid #C7C2A5;
+  border-radius: 12px;
+  color: #B8A433;
+  background: #FFF;
+  cursor: pointer;
+}
+
+button:focus {
+  outline: none;
+}
+
+.pagination-right {
+  float: right;
 }
 
 .footer {
@@ -178,19 +211,34 @@ h2.description {
   font-weight: 300;
 }
 
-
-
 /* media queries */
 
+@media screen and (max-width: 767px) {
 
-@media screen and (max-width: 750px) {
+  .sidebar {
+    width: 100%;
+    float: none;
+    height: auto;
+    position: static;
+    padding: 20px 15px;
+  }
 
- 
+  .sidebar ul,
+  .sidebar li {
+    margin-bottom: 0;
+  }
 
-}
+  .page-content {
+    width: 100%;
+    float: none;
+  }
 
-@media screen and (max-width: 600px) {
+  .wrapper {
+    padding: 15px;
+  }
 
-  
- 
+  .categories {
+    display: none;
+  }
+
 }

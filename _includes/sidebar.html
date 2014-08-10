@@ -49,17 +49,24 @@
   </div>
 
   <div class="categories">
-    <ul>
-      {% for category in site.categories %}
-        <li>
-          <a href="{{site.url}}{{site.baseurl}}/{{category | first}}/">
-            {{category | first }}
-            <span class="quantity">
-            {{ category | last | size }}
-            </span>
-          </a>
-        </li>
-      {% endfor %} 
-    </ul>
+    <table>
+      <tbody>
+        {% assign sorted_categories = (site.categories | sort:0) %}
+        {% for category in sorted_categories %}
+          <tr>
+            <td>
+              <a href="{{site.url}}{{site.baseurl}}/{{category | first}}/">
+                {{category | first }}
+              </a>
+            </td>
+            <td>
+              <button class="quantity">
+                {{ category | last | size }}
+              </button>
+            </td>
+          </tr>
+        {% endfor %}
+      </tbody> 
+    </table>
   </div>
 </div>
