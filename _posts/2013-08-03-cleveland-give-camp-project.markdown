@@ -1,5 +1,5 @@
 ---
-date: 2013-07-24 14:26:09
+date: 2013-07-24
 layout: post
 title: Cleveland Give Camp project
 categories:

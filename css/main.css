@@ -81,6 +81,7 @@ a:hover {
 
 svg {
   fill: #B8A433;
+  fill: #DCD091;
   display: inline-block;
   width: 24px;
   height: 24px;
@@ -124,6 +125,7 @@ h2.description {
   display: block;
   margin: 10px auto 30px;
   max-width: 100%;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
 }
 
 .date {
@@ -154,6 +156,7 @@ h2.description {
 
 .wrapper {
   padding: 50px 80px;
+  background: #F8F8F8;
 }
 
 .sidebar ul {
@@ -178,6 +181,7 @@ button.quantity {
   color: #DCD091;
   background: #444;
   border: none;
+  cursor: default;
 }
 
 button {

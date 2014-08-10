@@ -1,5 +1,5 @@
 ---
-date: 2013-04-09 16:12:52
+date: 2013-04-09
 layout: post
 title: Loan and Savings Calculator
 categories:

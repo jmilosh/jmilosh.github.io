@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Farkle Game for Two Players
-date: 2013-09-05 22:21:29
+title: Farkle game for two players
+date: 2013-09-05
 categories: 
 - JavaScript
 - Games

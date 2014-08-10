@@ -1,5 +1,5 @@
 ---
-date: 2013-08-11 19:08:58
+date: 2013-08-11
 layout: post
 title: Coating line simulation revision
 categories:

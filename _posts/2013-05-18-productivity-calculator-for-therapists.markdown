@@ -1,5 +1,5 @@
 ---
-date: 2013-05-18 15:45:36
+date: 2013-05-18
 layout: post
 title: Productivity calculator for therapists
 categories:

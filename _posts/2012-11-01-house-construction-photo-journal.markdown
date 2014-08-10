@@ -1,5 +1,5 @@
 ---
-date: 2012-11-01 08:46:51
+date: 2012-11-01
 layout: post
 title: House Construction Photo Journal
 categories:

@@ -1,5 +1,5 @@
 ---
-date: 2013-08-03 15:19:47
+date: 2013-08-03
 layout: post
 title: Coating line simulation using D3 JavaScript library
 categories:
