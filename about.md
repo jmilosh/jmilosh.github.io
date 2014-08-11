@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to my portfolio site! As with all of my projects, creating this site has been an adventure in learning a new technology. In this case, [Jekyll](http://jekyllrb.com). I'm motivated by challenges, so in these pages you will see the result of my persuit of various challenges.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+On my first introduction to AngularJS, I was hooked. I was then fortunate to find a position in a company that embraced that technology and gave me the opportunity to develop those skills. Both my personal Angular projects and collaborations with my co-workers are presented here.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You will notice some WordPress projects. My early Web consulting work consisted of developing custom WordPress sites for small business clients. I've also included a few of these projects.
+
+In my current position, I work with primarily AngularJS and Python (Django). 
