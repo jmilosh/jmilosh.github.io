@@ -10,4 +10,4 @@ On my first introduction to AngularJS, I was hooked. I was then fortunate to fin
 
 You will notice some WordPress projects. My early Web consulting work consisted of developing custom WordPress sites for small business clients. I've also included a few of these projects.
 
-In my current position, I work with primarily AngularJS and Python (Django). 
+In my current position, I workprimarily with  AngularJS and Python (Django). 

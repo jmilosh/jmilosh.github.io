@@ -3,7 +3,7 @@ date: 2014-03-18
 layout: post
 title: Kethogenic Therapies, LLC
 categories:
-- Angular.JS
+- AngularJS
 ---
 
 [![ketogenictherapies.com]({{ "/images/ketogenictherapies.png" | prepend: site.baseurl | prepend: site.url }})](http://ketogenictherapies.com)

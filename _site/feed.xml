@@ -5,9 +5,26 @@
     <description>Full-stack Developer</description>
     <link>https://janmilosh.github.io/portfolio-jekyll/</link>
     <atom:link href="https://janmilosh.github.io/portfolio-jekyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 11 Aug 2014 07:52:44 -0400</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2014 07:52:44 -0400</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2014 22:48:54 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 22:48:54 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>AngularJS task application</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://taskme.us&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/task-app.png&quot; alt=&quot;Task Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;AngularJS, Firebase task app.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Jul 2014 00:00:00 -0400</pubDate>
+        <link>https://janmilosh.github.io/portfolio-jekyll/angular-task-application.html</link>
+        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/angular-task-application.html</guid>
+        
+        
+        <category>angularjs</category>
+        
+        <category>firebase</category>
+        
+      </item>
     
       <item>
         <title>Full-page timeline slider</title>
@@ -25,6 +42,21 @@
       </item>
     
       <item>
+        <title>Chrome extension (time/weather)</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A Chrome extension written in AngularJS.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
+        <link>https://janmilosh.github.io/portfolio-jekyll/chrome-extension-weather-app.html</link>
+        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/chrome-extension-weather-app.html</guid>
+        
+        
+        <category>angularjs</category>
+        
+      </item>
+    
+      <item>
         <title>Kethogenic Therapies, LLC</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://ketogenictherapies.com&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/ketogenictherapies.png&quot; alt=&quot;ketogenictherapies.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -35,7 +67,7 @@
         <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/ketogenic-therapies.html</guid>
         
         
-        <category>angular.js</category>
+        <category>angularjs</category>
         
       </item>
     
@@ -58,7 +90,7 @@
     
       <item>
         <title>Coating line simulation revision</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/simulation-2.png&quot; alt=&quot;Coating Line Animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/animation.png&quot; alt=&quot;Coating Line Animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The first version of this simulation (shown in the &lt;a href=&quot;http://janmilosh.com/coating-line-simulation-using-d3-javascript-library/&quot;&gt;previous post&lt;/a&gt;) was created to help visualize the flow of items as they underwent a coating and curing process. This version is simply a revision with a more streamlined layout and different patterning for the items’ movements. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. You can see this version &lt;a href=&quot;http://janmilosh.com/simulation-2&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This revised animation will be used in the continuing analysis during the engineering/development phase of building the production line.&lt;/p&gt;
 </description>
@@ -73,7 +105,7 @@
     
       <item>
         <title>Coating line simulation using D3 JavaScript library</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/box-animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This project was created for the purpose of visualizing a coating line process. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out &lt;a href=&quot;http://janmilosh.com/simulation&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation will be used for analysis during the engineering/development phase of building a production line.&lt;/p&gt;
 </description>
@@ -102,38 +134,6 @@
       </item>
     
       <item>
-        <title>Tic-tac-toe game</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/tic-tac-toe/&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/tictactoe.png&quot; alt=&quot;tic-tac-toe game with cat faces&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This game was written in pure JavaScript (no jQuery) and was a personal code challenge project. Play it here: &lt;a href=&quot;http://janmilosh.github.io/tic-tac-toe/&quot;&gt;janmilosh.github.io/tic-tac-toe&lt;/a&gt;. The player moves first and can choose the “easy game” option at the click of a button. In this case, the computer will always block a move or complete a row to win, but otherwise makes random moves.&lt;/p&gt;
-
-&lt;p&gt;During the player’s move, the cat image appears on hover and stays upon click. The player can change his mind and select a different position until the “Finalize Move” button is clicked. This then locks in the player’s move and allows the computer to make a move. If there is a win, an alert box appears and no more moves can be made. The “New Game” button clears the board without a page re-load.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 23 May 2013 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/tic-tac-toe-game.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/tic-tac-toe-game.html</guid>
-        
-        
-        <category>javascript</category>
-        
-      </item>
-    
-      <item>
-        <title>Productivity calculator for therapists</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/productivity.png&quot; alt=&quot;Productivity application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Specially designed for use on smartphones, the &lt;a href=&quot;http://janmilosh.com/productivity&quot;&gt;Productivity Calculator&lt;/a&gt; was built for therapists who are trying to meet productivity targets and need a simple way to calculate either their productivity or clock-out time. Total treatment minutes for the day are input, as well as clock-in time and optional lunch-out/in times. To calculate productivity, a clock-out time must be entered and likewise to calculate the clock-out time, a productivity must be entered. Instructions are provided on a separate page.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 May 2013 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/productivity-calculator-for-therapists.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/productivity-calculator-for-therapists.html</guid>
-        
-        
-        <category>javascript</category>
-        
-      </item>
-    
-      <item>
         <title>Music chord transposer application</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/transposer&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/transposer.png&quot; alt=&quot;Music chord transposer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -154,7 +154,7 @@
     
       <item>
         <title>Poker hand evaluator</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/poker-hand.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/poker.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I was recently presented with a challenge to create a program that could evaluate two poker hands and declare a winner. This looked like a good opportunity to do even more, so I’ve come up with a JavaScript application that randomly deals two poker hands, shows the cards, and declares a winner. You can give it a try at: &lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;janmilosh.com/poker&lt;/a&gt;.&lt;/p&gt;
 </description>

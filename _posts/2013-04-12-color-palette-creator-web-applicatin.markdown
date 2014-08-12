@@ -6,7 +6,7 @@ categories:
 - JavaScript
 ---
 
-[![Take-Five Color Palette Application]({{ "/images/color-palette.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.com/color-palette)
+[![Take-Five Color Palette Application]({{ "/images/colors.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.com/color-palette)
 
 The idea for my [Take-Five Color Palette Creator](http://janmilosh.com/color-palette) came from the desire to create a color picking tool that I can really use on projects.
 
