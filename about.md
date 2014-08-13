@@ -5,10 +5,27 @@ permalink: /about/
 ---
 
 
-Welcome to my portfolio site! As with all of my projects, creating this site has been an adventure in learning a new technology. In this case, [Jekyll](http://jekyllrb.com). I'm motivated by challenges, so in these pages you will see the result of my persuit of various challenges.
+Welcome to my portfolio site! In these pages you will find descriptions and links to many of my web development projects. I've included my personal projects as well as collaborations that I've contributed to.
 
-On my first introduction to AngularJS, I was hooked. I was then fortunate to find a position in a company that embraced that technology and gave me the opportunity to develop those skills. Both my personal Angular projects and collaborations with my co-workers are presented here.
+I've used many technologies in these projects, including:
 
-You will notice some WordPress projects. My early Web consulting work consisted of developing custom WordPress sites for small business clients. I've also included a few of these projects.
+- AngularJS
+- jQuery
+- D3.js
+- pure JavaScript
+- Firebase
+- Django/Python
+- WordPress
+- Vagrant
+- Grunt
+- Gulp
+- Sass
+- Prerender
+- Digital Ocean/Nginx
 
-In my current position, I workprimarily with  AngularJS and Python (Django).
+Currently, I work primarily with AngularJS and Python (Django), but continue to explore various technologies through personal projects and tutorials. Other technologies that I've worked with that aren't represented here are the MEAN stack and Ruby/Rails.
+
+I've included several WordPress projects&mdash;my early Web consulting work consisted of developing custom WordPress sites for small business clients.
+
+Also included are several of my early JavaScript projects which were built in pure JavaScript (no jQuery).
+

@@ -155,8 +155,13 @@ h2.description {
 }
 
 .wrapper {
-  padding: 50px 80px;
+  padding: 40px 80px 10px;
   background: #F8F8F8;
+}
+
+.wrapper ul {
+  margin-bottom: 10px;
+  list-style-position: inside;
 }
 
 .sidebar ul {
