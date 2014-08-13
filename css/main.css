@@ -146,12 +146,11 @@ h2.description {
 .page-content {
   width: 67%;
   float: right;
-  background: white;
 }
 
 .post,
 .page {
-  margin-bottom: 40px;
+  margin-bottom: 50px;
 }
 
 .wrapper {

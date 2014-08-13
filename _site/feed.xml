@@ -5,8 +5,8 @@
     <description>Full-stack Developer</description>
     <link>https://janmilosh.github.io/portfolio-jekyll/</link>
     <atom:link href="https://janmilosh.github.io/portfolio-jekyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Aug 2014 21:11:57 -0400</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2014 21:11:57 -0400</lastBuildDate>
+    <pubDate>Tue, 12 Aug 2014 22:23:59 -0400</pubDate>
+    <lastBuildDate>Tue, 12 Aug 2014 22:23:59 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -23,6 +23,20 @@
         <category>angularjs</category>
         
         <category>firebase</category>
+        
+      </item>
+    
+      <item>
+        <title>Prerender.io presentation</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/prerender-talk&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/prerender.png&quot; alt=&quot;Prerender.io presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
+        <link>https://janmilosh.github.io/portfolio-jekyll/prerender-talk.html</link>
+        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/prerender-talk.html</guid>
+        
+        
+        <category>presentations</category>
         
       </item>
     
@@ -146,21 +160,6 @@
         <pubDate>Sun, 12 May 2013 00:00:00 -0400</pubDate>
         <link>https://janmilosh.github.io/portfolio-jekyll/music-chord-transposer-application.html</link>
         <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/music-chord-transposer-application.html</guid>
-        
-        
-        <category>javascript</category>
-        
-      </item>
-    
-      <item>
-        <title>Poker hand evaluator</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/poker.png&quot; alt=&quot;Poker Hand Comparer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I was recently presented with a challenge to create a program that could evaluate two poker hands and declare a winner. This looked like a good opportunity to do even more, so I’ve come up with a JavaScript application that randomly deals two poker hands, shows the cards, and declares a winner. You can give it a try at: &lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;janmilosh.com/poker&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Apr 2013 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/poker-hand-evaluator.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/poker-hand-evaluator.html</guid>
         
         
         <category>javascript</category>
