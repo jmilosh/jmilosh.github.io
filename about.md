@@ -15,6 +15,7 @@ I've used many technologies in these projects, including:
 - pure JavaScript
 - Firebase
 - Django/Python
+- Jekyll (this site)
 - WordPress
 - Vagrant
 - Grunt
@@ -27,5 +28,7 @@ Currently, I work primarily with AngularJS and Python (Django), but continue to 
 
 I've included several WordPress projects&mdash;my early Web consulting work consisted of developing custom WordPress sites for small business clients.
 
-Also included are several of my early JavaScript projects which were built in pure JavaScript (no jQuery).
+Also included are several of my first JavaScript projects which were built in pure JavaScript (no jQuery).
+
+All of my projects are mobile-friendly (responsive).
 

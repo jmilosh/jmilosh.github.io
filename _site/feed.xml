@@ -3,21 +3,25 @@
   <channel>
     <title>Jan Milosh</title>
     <description>Full-stack Developer</description>
-    <link>https://janmilosh.github.io/portfolio-jekyll/</link>
-    <atom:link href="https://janmilosh.github.io/portfolio-jekyll/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Aug 2014 22:23:59 -0400</pubDate>
-    <lastBuildDate>Tue, 12 Aug 2014 22:23:59 -0400</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 13 Aug 2014 21:25:14 -0400</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2014 21:25:14 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>AngularJS task application</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://taskme.us&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/task-app.png&quot; alt=&quot;Task Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://taskme.us&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/task-app.png&quot; alt=&quot;Task Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;AngularJS, Firebase task app.&lt;/p&gt;
+&lt;p&gt;This task application structure was based on methods from the book &lt;em&gt;Getting Things Done&lt;/em&gt; by David Allen. &lt;a href=&quot;https://www.firebase.com/&quot;&gt;Firebase&lt;/a&gt; (AngularFire) was used for data storage.&lt;/p&gt;
+
+&lt;p&gt;When tasks are added they are automatically put into the inbox. The user can create lists and tasks can be added to multiple lists. Descriptions can be added to tasks after they are created.&lt;/p&gt;
+
+&lt;p&gt;The app makes use of the Firebase email login and password reset features.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/angular-task-application.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/angular-task-application.html</guid>
+        <link>http://0.0.0.0:4000/angular-task-application.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/angular-task-application.html</guid>
         
         
         <category>angularjs</category>
@@ -28,12 +32,14 @@
     
       <item>
         <title>Prerender.io presentation</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/prerender-talk&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/prerender.png&quot; alt=&quot;Prerender.io presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/prerender-talk&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/prerender.png&quot; alt=&quot;Prerender.io presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These are the slides from my July 2014 presentation at the Columbus JavaScript meetup  and August 2014 presentation at the Columbus AngularJS meetup.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/prerender-talk.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/prerender-talk.html</guid>
+        <link>http://0.0.0.0:4000/prerender-talk.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/prerender-talk.html</guid>
         
         
         <category>presentations</category>
@@ -41,14 +47,33 @@
       </item>
     
       <item>
+        <title>Stratesphere.com CMS</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://stratesphere.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/stratesphere.png&quot; alt=&quot;StrateSphere.com CMS website&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://stratesphere.com&quot;&gt;StrateSphere.com&lt;/a&gt; website is a CMS built with Django. This was a collaborative effort where I created all of the jQuery effects on the site including a parallax effect on the home page and a full-page timeline slider. I also coordinated with the project lead to create the models and views.&lt;/p&gt;
+
+&lt;p&gt;The site is completely responsive and also includes a blog (news section).&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 Jul 2014 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/stratesphere.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/stratesphere.html</guid>
+        
+        
+        <category>django</category>
+        
+        <category>python</category>
+        
+      </item>
+    
+      <item>
         <title>Full-page timeline slider</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/timeline-slider.png&quot; alt=&quot;timeline-slider&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/timeline-slider.png&quot; alt=&quot;timeline-slider&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I built this jQuery &lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;full-page, responsive timeline slider&lt;/a&gt; to meet custom requirements on a project. We needed a full-page responsive slider that could be used to demonstrate a company timeline. This slider also needed to work within a framework which had dynamically generated content. I was easily able to incorporate it into a Django project as shown &lt;a href=&quot;http://stratesphere.com/timeline&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 May 2014 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/full-page-timeline-slider.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/full-page-timeline-slider.html</guid>
+        <link>http://0.0.0.0:4000/full-page-timeline-slider.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/full-page-timeline-slider.html</guid>
         
         
         <category>jquery</category>
@@ -57,13 +82,17 @@
     
       <item>
         <title>Chrome extension (time/weather)</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;A Chrome extension written in AngularJS.&lt;/p&gt;
+&lt;p&gt;This AngularJS application is a Chrome extension based on a &lt;a href=&quot;http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html&quot;&gt;ng-newsletter tutorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It makes use of the Weather Underground API to bring in both the 10-day and hourly forecasts as well as their autocomplete API for city details.&lt;/p&gt;
+
+&lt;p&gt;Clicking on the plus icon opens the hourly forecast and the gear icon opens a dialog for selecting a location (autocomplete). The time displayed on the home page is based on the timezone of the selected city.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/chrome-extension-weather-app.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/chrome-extension-weather-app.html</guid>
+        <link>http://0.0.0.0:4000/chrome-extension-weather-app.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/chrome-extension-weather-app.html</guid>
         
         
         <category>angularjs</category>
@@ -72,28 +101,34 @@
     
       <item>
         <title>Zoomable D3.js interactive map</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://nupykl.github.io/mariposa-map&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/mariposa-map.png&quot; alt=&quot;Interactive D3.js map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://nupykl.github.io/mariposa-map&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/mariposa-map.png&quot; alt=&quot;Interactive D3.js map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Zoomable interactive map built with D3.js. &lt;/p&gt;
+&lt;p&gt;This zoomable interactive map was built with &lt;a href=&quot;http://d3js.org/&quot;&gt;D3.js&lt;/a&gt; for an insurance adjusting service website. Clicking on a state causes it to zoom to fit the map area. There is a tooltip feature that shows the number of insurance adjusters in a city (on hover).&lt;/p&gt;
+
+&lt;p&gt;A Python program is used to retrieve the adjuster data from an adjuster portal API and to retrieve geodata from Google’s API. This data is processed with Python and printed to a CSV file which is then referenced in the D3.js code.&lt;/p&gt;
+
+&lt;p&gt;The map is in service &lt;a href=&quot;http://www.mariposaltd.com/index.php?/services/coverage&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Apr 2014 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/interactive-d3js-map.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/interactive-d3js-map.html</guid>
+        <link>http://0.0.0.0:4000/interactive-d3js-map.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/interactive-d3js-map.html</guid>
         
         
         <category>d3.js</category>
+        
+        <category>python</category>
         
       </item>
     
       <item>
         <title>Kethogenic Therapies, LLC</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://ketogenictherapies.com&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/ketogenictherapies.png&quot; alt=&quot;ketogenictherapies.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://ketogenictherapies.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/ketogenictherapies.png&quot; alt=&quot;ketogenictherapies.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I built &lt;a href=&quot;http://ketogenictherapies.com&quot;&gt;ketogenictherapies.com&lt;/a&gt; in AngularJS. The client required a site that was upbeat, yet tasteful for the intended audience of terminal cancer patients. This static site made use of Angular’s routing feature.&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Mar 2014 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/ketogenic-therapies.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/ketogenic-therapies.html</guid>
+        <link>http://0.0.0.0:4000/ketogenic-therapies.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/ketogenic-therapies.html</guid>
         
         
         <category>angularjs</category>
@@ -102,13 +137,13 @@
     
       <item>
         <title>Farkle game for two players</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/farkle&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/farkle.png&quot; alt=&quot;Farkle game&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/farkle&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/farkle.png&quot; alt=&quot;Farkle game&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This game was created as a code challenge - built with JavaScript/jQuery.&lt;/p&gt;
 </description>
         <pubDate>Thu, 05 Sep 2013 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/farkle-game-for-two-players.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/farkle-game-for-two-players.html</guid>
+        <link>http://0.0.0.0:4000/farkle-game-for-two-players.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/farkle-game-for-two-players.html</guid>
         
         
         <category>jquery</category>
@@ -119,13 +154,13 @@
     
       <item>
         <title>Coating line simulation using D3.js</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/coating-animation&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/coating-animation&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This project was created for the purpose of visualizing a coating line process. It is an animation, created with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out &lt;a href=&quot;http://janmilosh.github.io/coating-animation&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation was used for analysis during the engineering/development phase of building a production line.&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Aug 2013 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/coating-line-simulation-using-d3-javascript-library.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/coating-line-simulation-using-d3-javascript-library.html</guid>
+        <link>http://0.0.0.0:4000/coating-line-simulation-using-d3-javascript-library.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/coating-line-simulation-using-d3-javascript-library.html</guid>
         
         
         <category>d3.js</category>
@@ -134,35 +169,16 @@
     
       <item>
         <title>Cleveland Give Camp project</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/gaspohio.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/gaspohio.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This WordPress site for &lt;a href=&quot;http://gaspohio.org&quot;&gt;GASPohio.org&lt;/a&gt; was built at &lt;a href=&quot;clevelandgivecamp.org&quot;&gt;Cleveland Give Camp&lt;/a&gt; with my custom theme as a base. I was part of a five-person team (which included a project manager, designer, and intern) that worked closely with the client to build the site in under 48 hrs.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jul 2013 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/cleveland-give-camp-project.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/cleveland-give-camp-project.html</guid>
+        <link>http://0.0.0.0:4000/cleveland-give-camp-project.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/cleveland-give-camp-project.html</guid>
         
         
         <category>wordpress</category>
-        
-      </item>
-    
-      <item>
-        <title>Music chord transposer application</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/chord-transposer&quot;&gt;&lt;img src=&quot;https://janmilosh.github.io/portfolio-jekyll/images/transposer.png&quot; alt=&quot;Music chord transposer&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/chord-transposer&quot;&gt;Chord Transposer&lt;/a&gt; is a JavaScript application that I created in response to a challenge. Chords are input, separated by commas. The Key input is necessary for determining if the output key has sharps or flats. The new key and chord progression is output at the bottom of the page. &lt;/p&gt;
-
-&lt;p&gt;This app can handle complicated jazz chords as well as slash chords and can transpose either upward or downward in half-step increments.&lt;/p&gt;
-
-&lt;p&gt;Just for fun, there is a random background color generator button. With each click, a new background color will appear.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 May 2013 00:00:00 -0400</pubDate>
-        <link>https://janmilosh.github.io/portfolio-jekyll/music-chord-transposer-application.html</link>
-        <guid isPermaLink="true">https://janmilosh.github.io/portfolio-jekyll/music-chord-transposer-application.html</guid>
-        
-        
-        <category>javascript</category>
         
       </item>
     
