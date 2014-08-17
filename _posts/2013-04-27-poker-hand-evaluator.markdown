@@ -6,6 +6,6 @@ categories:
 - JavaScript
 ---
 
-[![Poker Hand Comparer]({{ "/images/poker.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.com/poker)
+[![Poker Hand Comparer]({{ "/images/poker.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.github.io/poker)
 
-I was recently presented with a challenge to create a program that could evaluate two poker hands and declare a winner. This looked like a good opportunity to do even more, so I've come up with a JavaScript application that randomly deals two poker hands, shows the cards, and declares a winner. You can give it a try at: [janmilosh.com/poker](http://janmilosh.com/poker).
+This was a challenge project&mdash;to create a program that could evaluate two poker hands and declare a winner. This JavaScript application randomly deals two poker hands, shows the cards, and declares a winner. I created a point system for evaluating and comparing the hands. You can give it a try at: [janmilosh.github.io/poker](http://janmilosh.github.io/poker).

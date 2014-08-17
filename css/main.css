@@ -243,6 +243,18 @@ button:focus {
 
 }
 
+@media screen and (max-width : 900px) {
+
+  .page-content {
+    width: 60%;
+  }
+
+  .sidebar {
+    width: 40%;
+  }
+
+}
+
 @media screen and (max-width: 767px) {
 
   .sidebar {
