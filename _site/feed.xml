@@ -5,9 +5,24 @@
     <description>Full-Stack Developer</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 17 Aug 2014 17:14:14 -0400</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2014 17:14:14 -0400</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2014 19:23:29 -0400</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2014 19:23:29 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Legacy Global Sports</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/lgs.png&quot; alt=&quot;Legacy Global Sports&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Legacy Global Sports is an events management company with expertise in elite youth sports, camps, and tours for sports such as hockey, soccer, and lacrosse. This web application allows users to create accounts and sign-up for events and tours. They can also arrange for travel services (hotels and flights) and purchase optional items. In this project I worked with a small team to build the AngularJS frontend.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/legacy-global-sports.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/legacy-global-sports.html</guid>
+        
+        
+        <category>angularjs</category>
+        
+      </item>
     
       <item>
         <title>AngularJS Task Application</title>
@@ -121,6 +136,21 @@
       </item>
     
       <item>
+        <title>bmxlive.tv</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://bmxlive.tv&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/bmxlivetv.png&quot; alt=&quot;bmxlive.tv&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://bmxlive.tv&quot;&gt;bmxlive.tv&lt;/a&gt; website was built in AngularJS and allows users to create accounts and watch live videos of BMX racing events at both a free and subscription level. I worked as part of a team to create the admin panels which allow users to enter event information and upload videos.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Mar 2014 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/bmxlivetv.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/bmxlivetv.html</guid>
+        
+        
+        <category>angularjs</category>
+        
+      </item>
+    
+      <item>
         <title>Ketogenic Therapies, LLC</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://ketogenictherapies.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/ketogenictherapies.png&quot; alt=&quot;ketogenictherapies.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -147,38 +177,6 @@
         
         
         <category>angularjs</category>
-        
-      </item>
-    
-      <item>
-        <title>Farkle Game for Two Players</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/farkle-javascript&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/farkle.png&quot; alt=&quot;Farkle game&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Farkle is a dice game for two players. I first created this game in Ruby (played on the command line). It begged to be written in JavaScript so I created this version. The logic is all JavaScript and the effects were done with jQuery. You can try it out &lt;a href=&quot;http://janmilosh.github.io/farkle-javascript&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 05 Sep 2013 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/farkle-game-for-two-players.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/farkle-game-for-two-players.html</guid>
-        
-        
-        <category>jquery</category>
-        
-        <category>javascript</category>
-        
-      </item>
-    
-      <item>
-        <title>Coating Line Simulation Using D3.js</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/coating-animation&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This is an animation of a coating line process. I created it with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out &lt;a href=&quot;http://janmilosh.github.io/coating-animation&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation was used for analysis during the engineering/development phase of building a production line.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 11 Aug 2013 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/coating-line-simulation-using-d3-javascript-library.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/coating-line-simulation-using-d3-javascript-library.html</guid>
-        
-        
-        <category>d3.js</category>
         
       </item>
     
