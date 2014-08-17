@@ -2,8 +2,9 @@
 title: Jan Milosh
 email: janmilosh@gmail.com
 description: "Full-stack Developer"
-baseurl: "/portfolio-jekyll"
-url: "https://janmilosh.github.io"
+baseurl: ""
+source: _site
+url: "https://jmilosh.github.io"
 twitter_username: janmilosh
 github_username:  janmilosh
 paginate: 5
