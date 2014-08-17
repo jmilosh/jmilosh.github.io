@@ -14,7 +14,7 @@ namespace :blog do
   # Usage:
   # bundle exec rake blog:publish (rake blog:publish has been working though)
 
-  GITHUB_REPONAME = "janmilosh/jmilosh.github.com"
+  GITHUB_REPONAME = "jmilosh.github.io"
 
   desc "Generate blog files"
   task :publish do
