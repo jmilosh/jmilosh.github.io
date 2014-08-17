@@ -84,7 +84,7 @@ module Jekyll
       self.data = {
           'layout' => @layout,
           'type' => 'archive',
-          'title' => "Project category: #{@category}",
+          'title' => "Project Category: #{@category}",
           'posts' => posts,
           'url' => File.join('/',
                      CategoryArchiveUtil.archive_base(site),

@@ -60,8 +60,8 @@
               </button>
             </td>
             <td>
-              <a href="{{site.url}}{{site.baseurl}}/{{category | first}}/">
-                <span class="category-name">{{category | first }}</span>
+              <a href="{{site.url}}{{site.baseurl}}/{{category | first }}/">
+                <span class="category-name">{{category | first | capitalize | replace: 'jquery', 'jQuery'}}</span>
               </a>
             </td>
           </tr>
