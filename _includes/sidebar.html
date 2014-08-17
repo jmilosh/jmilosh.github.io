@@ -61,7 +61,23 @@
             </td>
             <td>
               <a href="{{site.url}}{{site.baseurl}}/{{category | first }}/">
-                <span class="category-name">{{category | first | capitalize | replace: 'jquery', 'jQuery'}}</span>
+                
+                {% if category[0] == 'wordpress' %}
+                  {{ category | first | replace: 'wordpress', 'WordPress'}}
+                
+                {% elsif category[0] == 'jquery' %}
+                  {{ category | first | replace: 'jquery', 'jQuery'}}
+                
+                {% elsif category[0] == 'javascript' %}
+                  {{ category | first | replace: 'javascript', 'JavaScript'}}
+                
+                {% elsif category[0] == 'angularjs' %}
+                  {{ category | first | replace: 'angularjs', 'AngularJS'}}
+                
+                {% else %}
+                  {{ category | first | capitalize}}
+                {% endif %}
+
               </a>
             </td>
           </tr>

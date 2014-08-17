@@ -13,7 +13,21 @@ permalink: /list/
       
       <p class="post-category">
         {% for category in post.categories%}
-          <span class="category-name">{{ category }}</span><span class="bullet">&nbsp;&bullet;</span>
+          {% if category == 'wordpress' %}
+                {{ category | replace: 'wordpress', 'WordPress'}}
+              
+              {% elsif category == 'jquery' %}
+                {{ category | replace: 'jquery', 'jQuery'}}
+              
+              {% elsif category == 'javascript' %}
+                {{ category | replace: 'javascript', 'JavaScript'}}
+              
+              {% elsif category == 'angularjs' %}
+                {{ category | replace: 'angularjs', 'AngularJS'}}
+              
+              {% else %}
+                {{ category | capitalize}}
+              {% endif %}<span class="bullet">&nbsp;&bullet;</span>
         {% endfor %}
       </p>
       

@@ -2,6 +2,21 @@
 layout: default
 ---
 
-<h1>Category: <span class="category-name">{{ page.category }}</span></h1>
+<h1>Category: {% if page.category == 'wordpress' %}
+                {{ page.category | replace: 'wordpress', 'WordPress'}}
+              
+              {% elsif page.category == 'jquery' %}
+                {{ page.category | replace: 'jquery', 'jQuery'}}
+              
+              {% elsif page.category == 'javascript' %}
+                {{ page.category | replace: 'javascript', 'JavaScript'}}
+              
+              {% elsif page.category == 'angularjs' %}
+                {{ page.category | replace: 'angularjs', 'AngularJS'}}
+              
+              {% else %}
+                {{ page.category | capitalize}}
+              {% endif %}
+</h1>
 
 {{ content }}
