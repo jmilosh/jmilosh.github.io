@@ -1,7 +1,7 @@
 ---
 date: 2014-07-02
 layout: post
-title: Stratesphere.com CMS
+title: StrateSphere.com CMS
 categories:
 - Django
 - Python

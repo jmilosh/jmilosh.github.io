@@ -1,7 +1,7 @@
 ---
 date: 2013-05-12
 layout: post
-title: Music chord transposer application
+title: Music Chord Transposer Application
 categories:
 - JavaScript
 ---

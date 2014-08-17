@@ -1,7 +1,7 @@
 ---
 date: 2014-07-16
 layout: post
-title: Prerender.io presentation
+title: Prerender.io Presentation
 categories:
 - Presentations
 ---

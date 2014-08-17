@@ -1,7 +1,7 @@
 ---
 date: 2013-04-12
 layout: post
-title: Color palette creator web application
+title: Color Palette Creator Web Application
 categories:
 - JavaScript
 ---

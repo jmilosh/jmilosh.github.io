@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Farkle game for two players
+title: Farkle Game for Two Players
 date: 2013-09-05
 categories:
 - jQuery

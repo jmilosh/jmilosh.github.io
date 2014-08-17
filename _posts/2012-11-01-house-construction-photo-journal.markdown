@@ -1,7 +1,7 @@
 ---
 date: 2012-11-01
 layout: post
-title: House construction photo journal
+title: House Construction Photo Journal
 categories:
 - WordPress
 ---

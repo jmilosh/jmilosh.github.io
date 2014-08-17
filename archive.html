@@ -13,7 +13,7 @@ permalink: /list/
       
       <p class="post-category">
         {% for category in post.categories%}
-          {{ category }}<span class="bullet">&nbsp;&bullet;</span>
+          <span class="category-name">{{ category }}</span><span class="bullet">&nbsp;&bullet;</span>
         {% endfor %}
       </p>
       

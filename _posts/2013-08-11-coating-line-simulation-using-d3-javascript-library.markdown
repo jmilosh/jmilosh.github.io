@@ -1,7 +1,7 @@
 ---
 date: 2013-08-11
 layout: post
-title: Coating line simulation using D3.js
+title: Coating Line Simulation Using D3.js
 categories:
 - D3.js
 ---

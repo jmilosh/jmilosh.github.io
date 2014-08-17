@@ -1,7 +1,7 @@
 ---
 date: 2014-04-12
 layout: post
-title: Zoomable D3.js interactive map
+title: Zoomable D3.js Interactive Map
 categories:
 - D3.js
 - Python

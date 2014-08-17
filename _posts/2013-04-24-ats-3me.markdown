@@ -1,7 +1,7 @@
 ---
 date: 2013-04-24
 layout: post
-title: Nuclear testing facility website
+title: Nuclear Testing Facility Website
 categories:
 - WordPress
 ---

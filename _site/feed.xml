@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Milosh</title>
-    <description>Full-stack Developer</description>
+    <description>Full-Stack Developer</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 17 Aug 2014 07:55:48 -0400</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2014 07:55:48 -0400</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2014 09:02:13 -0400</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2014 09:02:13 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
-        <title>AngularJS task application</title>
+        <title>AngularJS Task Application</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://taskme.us&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/task-app.png&quot; alt=&quot;Task Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This task application structure was based on methods from the book &lt;em&gt;Getting Things Done&lt;/em&gt; by David Allen. &lt;a href=&quot;https://www.firebase.com/&quot;&gt;Firebase&lt;/a&gt; (AngularFire) was used for data storage.&lt;/p&gt;
@@ -31,7 +31,7 @@
       </item>
     
       <item>
-        <title>Prerender.io presentation</title>
+        <title>Prerender.io Presentation</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/prerender-talk&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/prerender.png&quot; alt=&quot;Prerender.io presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;These are the slides from my July 2014 presentation at the Columbus JavaScript meetup  and August 2014 presentation at the Columbus AngularJS meetup.&lt;/p&gt;
@@ -47,7 +47,7 @@
       </item>
     
       <item>
-        <title>Stratesphere.com CMS</title>
+        <title>StrateSphere.com CMS</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://stratesphere.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/stratesphere.png&quot; alt=&quot;StrateSphere.com CMS website&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;http://stratesphere.com&quot;&gt;StrateSphere.com&lt;/a&gt; website is a CMS built with Django. This was a collaborative effort where I created all of the jQuery effects on the site including a parallax effect on the home page and a full-page timeline slider. I also coordinated with the project lead to create the Django models and views.&lt;/p&gt;
@@ -66,7 +66,7 @@
       </item>
     
       <item>
-        <title>Full-page timeline slider</title>
+        <title>Full-Page Timeline Slider</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/timeline-slider.png&quot; alt=&quot;timeline-slider&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I built this jQuery &lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;full-page, responsive timeline slider&lt;/a&gt; to meet custom requirements on a project. We needed a full-page responsive slider that could be used to demonstrate a company timeline. This slider also needed to work within a framework which had dynamically generated content. I was easily able to incorporate it into a Django project as shown &lt;a href=&quot;http://stratesphere.com/timeline&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -81,7 +81,7 @@
       </item>
     
       <item>
-        <title>Chrome extension (time/weather)</title>
+        <title>Chrome Extension (Time/Weather)</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This AngularJS application is a Chrome extension based on a &lt;a href=&quot;http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html&quot;&gt;ng-newsletter tutorial&lt;/a&gt;.&lt;/p&gt;
@@ -100,7 +100,7 @@
       </item>
     
       <item>
-        <title>Zoomable D3.js interactive map</title>
+        <title>Zoomable D3.js Interactive Map</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/adjuster-map/&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/mariposa-map.png&quot; alt=&quot;Interactive D3.js map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This zoomable interactive &lt;a href=&quot;http://janmilosh.github.io/adjuster-map/&quot;&gt;map&lt;/a&gt; was built with &lt;a href=&quot;http://d3js.org/&quot;&gt;D3.js&lt;/a&gt; for an insurance adjusting service website. Clicking on a state causes it to zoom to fit the map area. There is a tooltip feature that shows the number of insurance adjusters in a city (on hover).&lt;/p&gt;
@@ -136,7 +136,7 @@
       </item>
     
       <item>
-        <title>Farkle game for two players</title>
+        <title>Farkle Game for Two Players</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/farkle-javascript&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/farkle.png&quot; alt=&quot;Farkle game&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Farkle is a dice game for two players. I first created this game in Ruby (played on the command line). It begged to be written in JavaScript so I created this version. The logic is all JavaScript and the effects were done with jQuery. You can try it out &lt;a href=&quot;http://janmilosh.github.io/farkle-javascript&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -153,7 +153,7 @@
       </item>
     
       <item>
-        <title>Coating line simulation using D3.js</title>
+        <title>Coating Line Simulation Using D3.js</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/coating-animation&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/animation.png&quot; alt=&quot;Coating line simulation animation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This is an animation of a coating line process. I created it with &lt;a href=&quot;http://d3.js&quot;&gt;D3.js&lt;/a&gt;, a JavaScript library for data visualization. In this case, I used D3 to animate the movement of 10 items that go through a coating and curing process. Check it out &lt;a href=&quot;http://janmilosh.github.io/coating-animation&quot;&gt;here&lt;/a&gt; (note: This animation works best on Google Chrome, and requires a modern browser–not IE8). This animation was used for analysis during the engineering/development phase of building a production line.&lt;/p&gt;
@@ -168,7 +168,7 @@
       </item>
     
       <item>
-        <title>Cleveland Give Camp project</title>
+        <title>Cleveland Give Camp Project</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/gaspohio.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This WordPress site for &lt;a href=&quot;http://gaspohio.org&quot;&gt;GASPohio.org&lt;/a&gt; was built at &lt;a href=&quot;clevelandgivecamp.org&quot;&gt;Cleveland Give Camp&lt;/a&gt; with my custom theme as a base. I was part of a five-person team (which included a project manager, designer, and intern) that worked closely with the client to build the site in under 48 hrs.&lt;/p&gt;

@@ -1,7 +1,7 @@
 ---
 date: 2014-05-25
 layout: post
-title: Full-page timeline slider
+title: Full-Page Timeline Slider
 categories:
 - jQuery
 ---

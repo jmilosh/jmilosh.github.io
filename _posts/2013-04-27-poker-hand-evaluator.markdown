@@ -1,7 +1,7 @@
 ---
 date: 2013-04-27
 layout: post
-title: Poker hand evaluator
+title: Poker Hand Evaluator
 categories:
 - JavaScript
 ---

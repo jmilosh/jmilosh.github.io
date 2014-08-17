@@ -1,7 +1,7 @@
 ---
 date: 2013-07-24
 layout: post
-title: Cleveland Give Camp project
+title: Cleveland Give Camp Project
 categories:
 - WordPress
 ---

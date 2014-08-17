@@ -1,7 +1,7 @@
 ---
 date: 2013-03-16
 layout: post
-title: Marlenehartzler.com, flute teacher website
+title: Marlenehartzler.com, Flute Teacher Website
 categories:
 - WordPress
 ---

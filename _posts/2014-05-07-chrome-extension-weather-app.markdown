@@ -1,7 +1,7 @@
 ---
 date: 2014-05-07
 layout: post
-title: Chrome extension (time/weather)
+title: Chrome Extension (Time/Weather)
 categories:
 - AngularJS
 ---

@@ -144,7 +144,8 @@ h2.description {
   float: left;
   padding:50px 15px;
   background: #333;
-  background: url('../images/diagmonds.png');
+  background: url('../images/dark_brick_wall.png');
+  border-right: 4px solid #8A7B2A;
 }
 
 .page-content {
@@ -250,6 +251,7 @@ button:focus {
     height: auto;
     position: static;
     padding: 20px 15px;
+    border-right: none;
   }
 
   .sidebar ul,

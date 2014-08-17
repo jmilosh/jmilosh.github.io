@@ -1,7 +1,7 @@
 ---
 date: 2014-07-20
 layout: post
-title: AngularJS task application
+title: AngularJS Task Application
 categories:
 - AngularJS
 - Firebase

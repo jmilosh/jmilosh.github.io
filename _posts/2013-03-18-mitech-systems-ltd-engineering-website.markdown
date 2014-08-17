@@ -1,7 +1,7 @@
 ---
 date: 2013-03-18
 layout: post
-title: Mitech Systems, Ltd. engineering website
+title: Mitech Systems, Ltd. Engineering Website
 categories:
 - WordPress
 ---
