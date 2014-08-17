@@ -5,8 +5,8 @@
     <description>Full-Stack Developer</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 17 Aug 2014 16:46:45 -0400</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2014 16:46:45 -0400</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2014 17:14:14 -0400</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2014 17:14:14 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -136,6 +136,21 @@
       </item>
     
       <item>
+        <title>Pykl Studios</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://pykl.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/pykl.png&quot; alt=&quot;pykl.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://pykl.com&quot;&gt;Pykl Studios&lt;/a&gt; website was a collaboration. We built the site in AngularJS with jQuery effects. I participated in all aspects of the project and wrote all of the Protractor end-to-end tests.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Dec 2013 00:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/pykl-studios.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/pykl-studios.html</guid>
+        
+        
+        <category>angularjs</category>
+        
+      </item>
+    
+      <item>
         <title>Farkle Game for Two Players</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/farkle-javascript&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/farkle.png&quot; alt=&quot;Farkle game&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -164,21 +179,6 @@
         
         
         <category>d3.js</category>
-        
-      </item>
-    
-      <item>
-        <title>Cleveland Give Camp Project</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://gaspohio.org&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/gaspohio.png&quot; alt=&quot;GASPohio.org screenshot&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This WordPress site for &lt;a href=&quot;http://gaspohio.org&quot;&gt;GASPohio.org&lt;/a&gt; was built at &lt;a href=&quot;clevelandgivecamp.org&quot;&gt;Cleveland Give Camp&lt;/a&gt; with my custom theme as a base. I was part of a five-person team (which included a project manager, designer, and intern) that worked closely with the client to build the site in under 48 hrs.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Jul 2013 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/cleveland-give-camp-project.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/cleveland-give-camp-project.html</guid>
-        
-        
-        <category>wordpress</category>
         
       </item>
     
