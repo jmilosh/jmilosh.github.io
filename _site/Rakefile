@@ -11,9 +11,12 @@ namespace :blog do
   # We built this little rake task to help make that a little bit eaiser.
   #
 
-  # Usaage:
-  # bundle exec rake blog:publish
-  desc "Publish blog to gh-pages"
+  # Usage:
+  # bundle exec rake blog:publish (rake blog:publish has been working though)
+
+  GITHUB_REPONAME = "janmilosh/jmilosh.github.com"
+
+  desc "Generate blog files"
   task :publish do
     # Compile the Jekyll site using the config.
     Jekyll::Site.new(Jekyll.configuration({
@@ -21,9 +24,6 @@ namespace :blog do
       "destination" => "_site",
       "config" => "_config.yml"
     })).process
-
-    # Get the origin to which we are going to push the site.
-    origin = `git config --get remote.origin.url`
 
     # Make a temporary directory for the build before production release.
     # This will be torn down once the task is complete.
@@ -39,10 +39,9 @@ namespace :blog do
       system "git add . && git commit -m 'Site updated at #{Time.now.utc}'" # Add and commit all the files.
 
       # Add the origin remote for the parent repo to the tmp folder.
-      system "git remote add origin #{origin}"
-
+      system "git remote add origin git@github.com:#{GITHUB_REPONAME}.git"
       # Push the files to the gh-pages branch, forcing an overwrite.
-      system "git push origin master:refs/heads/gh-pages --force"
+      system "git push origin master --force"
     end
 
     # Done.
