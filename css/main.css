@@ -71,6 +71,10 @@ a:visited {
   margin-right: auto;
 }
 
+.align-right {
+  text-align: right;
+}
+
 a:hover {
   text-decoration: none;
 }
@@ -178,7 +182,7 @@ h2.description {
 }
 
 button.quantity {
-  margin-left: 10px;
+  margin-right: 12px;
   height: 20px;
   width: 20px;
   border-radius: 50%;
@@ -205,6 +209,11 @@ button:focus {
 
 .pagination-right {
   float: right;
+}
+
+.pagination-left,
+.pagination-right {
+  margin-bottom: 20px;
 }
 
 .footer {

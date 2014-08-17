@@ -55,14 +55,14 @@
         {% for category in sorted_categories %}
           <tr>
             <td>
-              <a href="{{site.url}}{{site.baseurl}}/{{category | first}}/">
-                {{category | first }}
-              </a>
-            </td>
-            <td>
               <button class="quantity">
                 {{ category | last | size }}
               </button>
+            </td>
+            <td>
+              <a href="{{site.url}}{{site.baseurl}}/{{category | first}}/">
+                {{category | first }}
+              </a>
             </td>
           </tr>
         {% endfor %}
