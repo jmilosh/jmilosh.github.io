@@ -10,6 +10,7 @@ Welcome to my portfolio site! In these pages you will find descriptions and link
 I've used many technologies in these projects, including:
 
 - AngularJS
+- Protractor for E2E tests
 - jQuery
 - D3.js
 - pure JavaScript

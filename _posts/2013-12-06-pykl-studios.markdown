@@ -8,4 +8,4 @@ categories:
 
 [![pykl.com]({{ "/images/pykl.png" | prepend: site.baseurl | prepend: site.url }})](http://pykl.com)
 
-The [Pykl Studios](http://pykl.com) website was a collaboration. We built the site in AngularJS with jQuery effects. I participated in all aspects of the project and wrote all of the Protractor end-to-end tests.
+The [Pykl Studios](http://pykl.com) website was a collaboration. We built the site in AngularJS with jQuery effects. I participated in all aspects of the project and wrote all of the Protractor E2E tests.
