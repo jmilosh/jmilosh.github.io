@@ -9,6 +9,7 @@ To build the site:
 ```sh
 $ jekyll build
 ```
+
 To run a local server:
 
 ```sh
