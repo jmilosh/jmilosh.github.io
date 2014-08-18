@@ -6,7 +6,7 @@ categories:
 - AngularJS
 ---
 
-[![Weather Chrome Extension App.]({{ "/images/presently.png" | prepend: site.baseurl | prepend: site.url }})](http://janmilosh.com/poker)
+![Weather Chrome Extension App.]({{ "/images/presently.png" | prepend: site.baseurl | prepend: site.url }})
 
 This AngularJS application is a Chrome extension based on a [ng-newsletter tutorial](http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html).
 
