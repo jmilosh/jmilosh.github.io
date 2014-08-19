@@ -5,8 +5,8 @@
     <description>Full-Stack Developer</description>
     <link>https://jmilosh.github.io/</link>
     <atom:link href="https://jmilosh.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Aug 2014 06:04:56 -0400</pubDate>
-    <lastBuildDate>Mon, 18 Aug 2014 06:04:56 -0400</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2014 06:10:45 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2014 06:10:45 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -97,7 +97,7 @@
     
       <item>
         <title>Chrome Extension (Time/Weather)</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.com/poker&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://jmilosh.github.io/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This AngularJS application is a Chrome extension based on a &lt;a href=&quot;http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html&quot;&gt;ng-newsletter tutorial&lt;/a&gt;.&lt;/p&gt;
 
