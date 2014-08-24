@@ -28,7 +28,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  color: #8A7B2A;
+  color: #9D9870;
   text-align: center;
   margin-bottom: 30px;
   line-height: 1.2;
@@ -47,15 +47,17 @@ li a.post-link {
   font-weight: 300;
 }
 
-p a {
-  text-decoration: underline;
-}
-
 a,
 a:hover,
 a:visited { 
-  color: #B8A433;
+  color: #AAC2F3;
   text-decoration: none;
+}
+
+.page-content a,
+.page-content a:hover,
+.page-content a:visited { 
+  color: #416FCE;
 }
 
 .sidebar table a,
@@ -143,9 +145,7 @@ h2.description {
   height: 100%;
   float: left;
   padding:50px 15px;
-  background: #333;
-  background: url('../images/dark_brick_wall.png');
-  border-right: 4px solid #8A7B2A;
+  background: #1E1838;
 }
 
 .page-content {
@@ -226,7 +226,7 @@ button.quantity {
   width: 20px;
   border-radius: 50%;
   color: #DCD091;
-  background: #444;
+  background: #393158;
   border: none;
   cursor: default;
 }
@@ -267,7 +267,7 @@ button:focus {
   font-weight: 300;
 }
 
-.footer a {
+.page-content .footer a {
   color: white;
 }
 
