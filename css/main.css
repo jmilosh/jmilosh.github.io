@@ -36,7 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 
 p {
   margin-bottom: 10px;
-  color: #444;
+  color: #555;
 }
 
 p, li {
@@ -50,20 +50,20 @@ li a.post-link {
 a,
 a:hover,
 a:visited { 
-  color: #AAC2F3;
+  color: #5A3ACD;
   text-decoration: none;
 }
 
 .page-content a,
 .page-content a:hover,
 .page-content a:visited { 
-  color: #416FCE;
+  color: #5A3ACD;
 }
 
 .sidebar table a,
 .sidebar table a:hover,
 .sidebar table a:visited { 
-  color: #DCD091;
+  color: #FFF3B6;
   font-size: 18px;
   font-weight: 200;
 }
@@ -105,6 +105,10 @@ h1.site-title {
   letter-spacing: 3px;
 }
 
+h1.site-title a {
+  color: white;
+}
+
 .page h1 {
   text-align: left;
   margin-bottom: 20px;
@@ -112,7 +116,7 @@ h1.site-title {
 
 h2.description {
   font-size: 22px;
-  color: #F1F7B1;
+  color: #ADA3E5;
   letter-spacing: 1px;
 }
 
@@ -145,7 +149,7 @@ h2.description {
   height: 100%;
   float: left;
   padding:50px 15px;
-  background: #1E1838;
+  background: #533F9A;
 }
 
 .page-content {
@@ -220,13 +224,21 @@ h2.description {
   text-transform: uppercase;
 }
 
+.left-menu ul a {
+  color: #eee;
+}
+
+.left-menu ul a:hover {
+  color: #eee;
+}
+
 button.quantity {
   margin-right: 12px;
   height: 20px;
   width: 20px;
   border-radius: 50%;
-  color: #DCD091;
-  background: #393158;
+  color: #eee;
+  background: #41317C;
   border: none;
   cursor: default;
 }
