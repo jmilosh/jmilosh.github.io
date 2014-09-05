@@ -39,6 +39,10 @@ p {
   color: #555;
 }
 
+.wrapper ul li {
+  color: #555;
+}
+
 p, li {
   font-weight: normal;
 }
