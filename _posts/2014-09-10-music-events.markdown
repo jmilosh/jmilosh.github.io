@@ -4,6 +4,7 @@ layout: post
 title: Music Events
 categories:
 - Django
+- Python
 - JavaScript
 ---
 
