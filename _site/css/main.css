@@ -121,7 +121,7 @@ h1.site-title a {
 h2.description {
   text-align: center;
   font-size: 22px;
-  color: #ADA3E5;
+  color: #FFF3B6;
   letter-spacing: 1px;
 }
 
@@ -154,7 +154,7 @@ h2.description {
   height: 100%;
   float: left;
   padding:50px 15px;
-  background: #533F9A;
+  background: #5C5AA3;
 }
 
 .page-content {
@@ -243,7 +243,7 @@ button.quantity {
   width: 20px;
   border-radius: 50%;
   color: #eee;
-  background: #41317C;
+  background: #524094;
   border: none;
   cursor: default;
 }
