@@ -29,7 +29,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   color: #9D9870;
-  text-align: center;
   margin-bottom: 30px;
   line-height: 1.2;
 }
@@ -103,6 +102,7 @@ svg {
 }
 
 h1.site-title {
+  text-align: center;
   text-transform:lowercase;
   font-size: 45px;
   margin-bottom: 16px;
@@ -119,6 +119,7 @@ h1.site-title a {
 }
 
 h2.description {
+  text-align: center;
   font-size: 22px;
   color: #ADA3E5;
   letter-spacing: 1px;

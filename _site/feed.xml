@@ -5,9 +5,28 @@
     <description>Full-Stack Developer</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 05 Sep 2014 00:11:46 -0400</pubDate>
-    <lastBuildDate>Fri, 05 Sep 2014 00:11:46 -0400</lastBuildDate>
+    <pubDate>Wed, 10 Sep 2014 22:47:18 -0400</pubDate>
+    <lastBuildDate>Wed, 10 Sep 2014 22:47:18 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Music Events</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://music-events.herokuapp.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/music-events.png&quot; alt=&quot;Music Events&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;http://music-events.herokuapp.com&quot;&gt;Music Events&lt;/a&gt; application is built in Django and makes use of the &lt;a href=&quot;http://last.fm&quot;&gt;last.fm&lt;/a&gt; api and the Google geocode api. Users need to register for an account and log in. They can then either have their browser get their location or enter a location. When a use (location) button is clicked, a Google map appears with the ten most recent upcoming music events marked.&lt;/p&gt;
+
+&lt;p&gt;Below the map is a table showing more event details. Artist and venue detailed info is linked from the table and map info boxes. When a visitor comes back the site, all previously selected locations are available for checking music events.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/music-events.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/music-events.html</guid>
+        
+        
+        <category>django</category>
+        
+        <category>javascript</category>
+        
+      </item>
     
       <item>
         <title>Legacy Global Sports</title>
@@ -159,21 +178,6 @@
         <pubDate>Tue, 18 Mar 2014 00:00:00 -0400</pubDate>
         <link>http://0.0.0.0:4000/ketogenic-therapies.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/ketogenic-therapies.html</guid>
-        
-        
-        <category>angularjs</category>
-        
-      </item>
-    
-      <item>
-        <title>Pykl Studios</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://pykl.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/pykl.png&quot; alt=&quot;pykl.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://pykl.com&quot;&gt;Pykl Studios&lt;/a&gt; website was a collaboration. We built the site in AngularJS with jQuery effects. I participated in all aspects of the project and wrote all of the Protractor E2E tests.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 06 Dec 2013 00:00:00 -0500</pubDate>
-        <link>http://0.0.0.0:4000/pykl-studios.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/pykl-studios.html</guid>
         
         
         <category>angularjs</category>
