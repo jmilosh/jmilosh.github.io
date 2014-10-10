@@ -1,7 +1,7 @@
 ---
 date: 2014-10-10
 layout: post
-title: D3 Weather Graph
+title: D3.js Weather Graph
 categories:
 - D3.js
 - jQuery
