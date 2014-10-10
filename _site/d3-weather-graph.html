@@ -4,10 +4,10 @@
   <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Jan Milosh</title>
+  <title>D3 Weather Graph</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Full-stack web developer - AngularJS, Django, Python, D3.js, JavaScript, WordPress: This is my portfolio site with descriptions and links to many of my projects.">
-  <link rel="canonical" href="http://0.0.0.0:4000/page2/">
+  <link rel="canonical" href="http://0.0.0.0:4000/d3-weather-graph.html">
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="http://0.0.0.0:4000/css/main.css">
@@ -238,97 +238,18 @@
     <div class="page-content">
       
       <div class="wrapper" id="content">      
-        <!-- This loops through the paginated posts -->
+        <div class="post">
 
-  <div class="post">
+  <h1>D3 Weather Graph</h1>
     
-    <h1><a href="/stratesphere.html">StrateSphere.com CMS</a></h1>
-    
-    <div class="content">
-      <p><a href="http://stratesphere.com"><img src="http://0.0.0.0:4000/images/stratesphere.png" alt="StrateSphere.com CMS website" /></a></p>
+  <div class="content">
+    <p><a href="http://janmilosh.github.io/weather-graph/"><img src="http://0.0.0.0:4000/images/weather-graph.png" alt="D3.js weather graph" /></a></p>
 
-<p>The <a href="http://stratesphere.com">StrateSphere.com</a> website is a CMS built with Django. This was a collaborative effort where I created all of the jQuery effects on the site including a parallax effect on the home page and a full-page timeline slider. I also coordinated with the project lead to create the Django models and views.</p>
+<p>This <a href="http://janmilosh.github.io/weather-graph/">time-series weather graph</a> was built with <a href="http://d3js.org/">D3.js</a> and jQuery. It presents a 36-hour, hourly temperature forecast for the user-specified location. The record high, record low, normal high, and normal low temperatures are all shown for comparison. The local time for the specified location is shown on the x-axis.</p>
 
-<p>The site is completely responsive and also includes a blog (news section).</p>
+<p>Weather Underground’s autocomplete API is used for obtaining location details which are then used to query (WU) for the hourly, three-day, and archived forecasts (in a single request). jQuery is used for the API calls and for the autocomplete effects.</p>
 
-    </div>
-    
-  </div> 
-
-  <div class="post">
-    
-    <h1><a href="/full-page-timeline-slider.html">Full-Page Timeline Slider</a></h1>
-    
-    <div class="content">
-      <p><a href="http://janmilosh.github.io/timeline-demo"><img src="http://0.0.0.0:4000/images/timeline-slider.png" alt="timeline-slider" /></a></p>
-
-<p>I built this jQuery <a href="http://janmilosh.github.io/timeline-demo">full-page, responsive timeline slider</a> to meet custom requirements on a project. We needed a full-page responsive slider that could be used to demonstrate a company timeline. This slider also needed to work within a framework which had dynamically generated content. I was easily able to incorporate it into a Django project as shown <a href="http://stratesphere.com/timeline">here</a>.</p>
-
-    </div>
-    
-  </div> 
-
-  <div class="post">
-    
-    <h1><a href="/chrome-extension-weather-app.html">Chrome Extension (Time/Weather)</a></h1>
-    
-    <div class="content">
-      <p><img src="http://0.0.0.0:4000/images/presently.png" alt="Weather Chrome Extension App." /></p>
-
-<p>This AngularJS application is a Chrome extension based on a <a href="http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html">ng-newsletter tutorial</a>.</p>
-
-<p>It makes use of the Weather Underground API to bring in both the 10-day and hourly forecasts as well as their autocomplete API for city details.</p>
-
-<p>Clicking on the plus icon opens the hourly forecast and the gear icon opens a dialog for selecting a location (autocomplete). The time displayed on the home page is based on the timezone of the selected city.</p>
-
-    </div>
-    
-  </div> 
-
-  <div class="post">
-    
-    <h1><a href="/interactive-d3js-map.html">Zoomable D3.js Interactive Map</a></h1>
-    
-    <div class="content">
-      <p><a href="http://janmilosh.github.io/adjuster-map/"><img src="http://0.0.0.0:4000/images/mariposa-map.png" alt="Interactive D3.js map" /></a></p>
-
-<p>This zoomable interactive <a href="http://janmilosh.github.io/adjuster-map/">map</a> was built with <a href="http://d3js.org/">D3.js</a> for an insurance adjusting service website. Clicking on a state causes it to zoom to fit the map area. There is a tooltip feature that shows the number of insurance adjusters in a city (on hover).</p>
-
-<p>I also wrote a Python script to retrieve the adjuster data from an adjuster portal API and to retrieve geodata from Google’s API. This data is processed with Python and printed to a CSV file which is then referenced in the D3.js code.</p>
-
-<p>The map is in service <a href="http://www.mariposaltd.com/index.php?/services/coverage">here</a>.</p>
-
-    </div>
-    
-  </div> 
-
-  <div class="post">
-    
-    <h1><a href="/bmxlivetv.html">bmxlive.tv</a></h1>
-    
-    <div class="content">
-      <p><a href="http://bmxlive.tv"><img src="http://0.0.0.0:4000/images/bmxlivetv.png" alt="bmxlive.tv" /></a></p>
-
-<p>The <a href="http://bmxlive.tv">bmxlive.tv</a> website was built in AngularJS and allows users to create accounts and watch live videos of BMX racing events at both a free and subscription level. I worked as part of a team to create the admin panels which allow admin users to enter event information and upload videos. I wrote the Protractor E2E tests for the site.</p>
-
-    </div>
-    
-  </div> 
-
-
-<div class="clearfix">
-
-  
-    
-    
-      <a href="/index.html"><button class="pagination-left">Previous</button></a>
-    
-
-    
-      <a href="/page3"><button class="pagination-right">Next</button></a>
-    
-    
-  
+  </div>
 
 </div>
       </div>

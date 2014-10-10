@@ -5,9 +5,28 @@
     <description>Full-Stack Developer</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Sep 2014 16:05:16 -0400</pubDate>
-    <lastBuildDate>Thu, 11 Sep 2014 16:05:16 -0400</lastBuildDate>
+    <pubDate>Fri, 10 Oct 2014 00:04:26 -0400</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2014 00:04:26 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>D3 Weather Graph</title>
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/weather-graph/&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/weather-graph.png&quot; alt=&quot;D3.js weather graph&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This &lt;a href=&quot;http://janmilosh.github.io/weather-graph/&quot;&gt;time-series weather graph&lt;/a&gt; was built with &lt;a href=&quot;http://d3js.org/&quot;&gt;D3.js&lt;/a&gt; and jQuery. It presents a 36-hour, hourly temperature forecast for the user-specified location. The record high, record low, normal high, and normal low temperatures are all shown for comparison. The local time for the specified location is shown on the x-axis.&lt;/p&gt;
+
+&lt;p&gt;Weather Underground’s autocomplete API is used for obtaining location details which are then used to query (WU) for the hourly, three-day, and archived forecasts (in a single request). jQuery is used for the API calls and for the autocomplete effects.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Oct 2014 00:00:00 -0400</pubDate>
+        <link>http://0.0.0.0:4000/d3-weather-graph.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/d3-weather-graph.html</guid>
+        
+        
+        <category>d3.js</category>
+        
+        <category>jquery</category>
+        
+      </item>
     
       <item>
         <title>Music Events</title>
@@ -165,21 +184,6 @@
         <pubDate>Mon, 24 Mar 2014 00:00:00 -0400</pubDate>
         <link>http://0.0.0.0:4000/bmxlivetv.html</link>
         <guid isPermaLink="true">http://0.0.0.0:4000/bmxlivetv.html</guid>
-        
-        
-        <category>angularjs</category>
-        
-      </item>
-    
-      <item>
-        <title>Ketogenic Therapies, LLC</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://ketogenictherapies.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/ketogenictherapies.png&quot; alt=&quot;ketogenictherapies.com&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I built &lt;a href=&quot;http://ketogenictherapies.com&quot;&gt;ketogenictherapies.com&lt;/a&gt; in AngularJS. The client required a site that was upbeat, yet tasteful for the intended audience of terminal cancer patients. This static site made use of Angular’s routing feature and includes some jQuery effects.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 18 Mar 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/ketogenic-therapies.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/ketogenic-therapies.html</guid>
         
         
         <category>angularjs</category>
