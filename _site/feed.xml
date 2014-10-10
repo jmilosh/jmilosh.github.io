@@ -3,21 +3,21 @@
   <channel>
     <title>Jan Milosh</title>
     <description>Full-Stack Developer</description>
-    <link>http://0.0.0.0:4000/</link>
-    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 10 Oct 2014 08:13:26 -0400</pubDate>
-    <lastBuildDate>Fri, 10 Oct 2014 08:13:26 -0400</lastBuildDate>
+    <link>https://jmilosh.github.io/</link>
+    <atom:link href="https://jmilosh.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 10 Oct 2014 08:15:54 -0400</pubDate>
+    <lastBuildDate>Fri, 10 Oct 2014 08:15:54 -0400</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>D3.js Presentation</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/d3js-presentation/&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/d3-presentation.png&quot; alt=&quot;D3.js presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/d3js-presentation/&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/d3-presentation.png&quot; alt=&quot;D3.js presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This &lt;a href=&quot;http://janmilosh.github.io/d3js-presentation/&quot;&gt;presentation&lt;/a&gt; is a series of demonstrations showing the process for building a D3.js scatter plot. It is intended to be run locally with the index.html file open along-side the browser window. The code can be &lt;a href=&quot;http://github.com/janmilosh/d3js-presentation/&quot;&gt;cloned or downloaded from github&lt;/a&gt;. Instructions for starting a server are shown in the project README.md.&lt;/p&gt;
 </description>
         <pubDate>Sat, 11 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/d3-presentation.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/d3-presentation.html</guid>
+        <link>https://jmilosh.github.io/d3-presentation.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/d3-presentation.html</guid>
         
         
         <category>d3.js</category>
@@ -28,15 +28,15 @@
     
       <item>
         <title>D3.js Weather Graph</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/weather-graph/&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/weather-graph.png&quot; alt=&quot;D3.js weather graph&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/weather-graph/&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/weather-graph.png&quot; alt=&quot;D3.js weather graph&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This &lt;a href=&quot;http://janmilosh.github.io/weather-graph/&quot;&gt;time-series weather graph&lt;/a&gt; was built with &lt;a href=&quot;http://d3js.org/&quot;&gt;D3.js&lt;/a&gt; and jQuery. It presents a 36-hour, hourly temperature forecast for the user-specified location. The record high, record low, normal high, and normal low temperatures are all shown for comparison. The local time for the specified location is shown on the x-axis.&lt;/p&gt;
 
 &lt;p&gt;Weather Underground’s autocomplete API is used for obtaining location details which are then used to query (WU) for the hourly, three-day, and archived forecasts (in a single request). jQuery is used for the API calls and for the autocomplete effects.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Oct 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/d3-weather-graph.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/d3-weather-graph.html</guid>
+        <link>https://jmilosh.github.io/d3-weather-graph.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/d3-weather-graph.html</guid>
         
         
         <category>d3.js</category>
@@ -47,15 +47,15 @@
     
       <item>
         <title>Music Events</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://music-events.herokuapp.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/music-events.png&quot; alt=&quot;Music Events&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://music-events.herokuapp.com&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/music-events.png&quot; alt=&quot;Music Events&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This &lt;a href=&quot;http://music-events.herokuapp.com&quot;&gt;Music Events&lt;/a&gt; application is built in Django and makes use of the &lt;a href=&quot;http://last.fm&quot;&gt;last.fm&lt;/a&gt; api and the Google geocode api. Users need to register for an account and log in. They can then either have their browser get their location or enter a location. When a use (location) button is clicked, a Google map appears with the ten most recent upcoming music events marked.&lt;/p&gt;
 
 &lt;p&gt;Below the map is a table showing more event details. Artist and venue detailed info is linked from the table and map info boxes. When a visitor comes back the site, all previously selected locations are available for checking music events.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/music-events.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/music-events.html</guid>
+        <link>https://jmilosh.github.io/music-events.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/music-events.html</guid>
         
         
         <category>django</category>
@@ -68,13 +68,13 @@
     
       <item>
         <title>Legacy Global Sports</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/lgs.png&quot; alt=&quot;Legacy Global Sports&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://jmilosh.github.io/images/lgs.png&quot; alt=&quot;Legacy Global Sports&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Legacy Global Sports is an events management company with expertise in elite youth sports, camps, and tours for sports such as hockey, soccer, and lacrosse. This web application allows users to create accounts and sign-up for events and tours. They can also arrange for travel services (hotels and flights) and purchase optional items. In this project I worked with a small team to build the AngularJS frontend.&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 Aug 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/legacy-global-sports.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/legacy-global-sports.html</guid>
+        <link>https://jmilosh.github.io/legacy-global-sports.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/legacy-global-sports.html</guid>
         
         
         <category>angularjs</category>
@@ -83,7 +83,7 @@
     
       <item>
         <title>AngularJS Task Application</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://taskme.us&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/task-app.png&quot; alt=&quot;Task Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://taskme.us&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/task-app.png&quot; alt=&quot;Task Application&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This task application structure was based on methods from the book &lt;em&gt;Getting Things Done&lt;/em&gt; by David Allen. &lt;a href=&quot;https://www.firebase.com/&quot;&gt;Firebase&lt;/a&gt; (AngularFire) was used for data storage.&lt;/p&gt;
 
@@ -92,8 +92,8 @@
 &lt;p&gt;The app makes use of the Firebase email login and password reset features.&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/angular-task-application.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/angular-task-application.html</guid>
+        <link>https://jmilosh.github.io/angular-task-application.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/angular-task-application.html</guid>
         
         
         <category>angularjs</category>
@@ -104,14 +104,14 @@
     
       <item>
         <title>Prerender.io Presentation</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/prerender-talk&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/prerender.png&quot; alt=&quot;Prerender.io presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/prerender-talk&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/prerender.png&quot; alt=&quot;Prerender.io presentation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;These are the slides from my July 2014 presentation at the Columbus JavaScript meetup  and August 2014 presentation at the Columbus AngularJS meetup.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/prerender-talk.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/prerender-talk.html</guid>
+        <link>https://jmilosh.github.io/prerender-talk.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/prerender-talk.html</guid>
         
         
         <category>presentations</category>
@@ -120,15 +120,15 @@
     
       <item>
         <title>StrateSphere.com CMS</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://stratesphere.com&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/stratesphere.png&quot; alt=&quot;StrateSphere.com CMS website&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://stratesphere.com&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/stratesphere.png&quot; alt=&quot;StrateSphere.com CMS website&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&quot;http://stratesphere.com&quot;&gt;StrateSphere.com&lt;/a&gt; website is a CMS built with Django. This was a collaborative effort where I created all of the jQuery effects on the site including a parallax effect on the home page and a full-page timeline slider. I also coordinated with the project lead to create the Django models and views.&lt;/p&gt;
 
 &lt;p&gt;The site is completely responsive and also includes a blog (news section).&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Jul 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/stratesphere.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/stratesphere.html</guid>
+        <link>https://jmilosh.github.io/stratesphere.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/stratesphere.html</guid>
         
         
         <category>django</category>
@@ -139,13 +139,13 @@
     
       <item>
         <title>Full-Page Timeline Slider</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/timeline-slider.png&quot; alt=&quot;timeline-slider&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/timeline-slider.png&quot; alt=&quot;timeline-slider&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I built this jQuery &lt;a href=&quot;http://janmilosh.github.io/timeline-demo&quot;&gt;full-page, responsive timeline slider&lt;/a&gt; to meet custom requirements on a project. We needed a full-page responsive slider that could be used to demonstrate a company timeline. This slider also needed to work within a framework which had dynamically generated content. I was easily able to incorporate it into a Django project as shown &lt;a href=&quot;http://stratesphere.com/timeline&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 25 May 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/full-page-timeline-slider.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/full-page-timeline-slider.html</guid>
+        <link>https://jmilosh.github.io/full-page-timeline-slider.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/full-page-timeline-slider.html</guid>
         
         
         <category>jquery</category>
@@ -154,7 +154,7 @@
     
       <item>
         <title>Chrome Extension (Time/Weather)</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://jmilosh.github.io/images/presently.png&quot; alt=&quot;Weather Chrome Extension App.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This AngularJS application is a Chrome extension based on a &lt;a href=&quot;http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html&quot;&gt;ng-newsletter tutorial&lt;/a&gt;.&lt;/p&gt;
 
@@ -163,8 +163,8 @@
 &lt;p&gt;Clicking on the plus icon opens the hourly forecast and the gear icon opens a dialog for selecting a location (autocomplete). The time displayed on the home page is based on the timezone of the selected city.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 May 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/chrome-extension-weather-app.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/chrome-extension-weather-app.html</guid>
+        <link>https://jmilosh.github.io/chrome-extension-weather-app.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/chrome-extension-weather-app.html</guid>
         
         
         <category>angularjs</category>
@@ -173,7 +173,7 @@
     
       <item>
         <title>Zoomable D3.js Interactive Map</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/adjuster-map/&quot;&gt;&lt;img src=&quot;http://0.0.0.0:4000/images/mariposa-map.png&quot; alt=&quot;Interactive D3.js map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://janmilosh.github.io/adjuster-map/&quot;&gt;&lt;img src=&quot;https://jmilosh.github.io/images/mariposa-map.png&quot; alt=&quot;Interactive D3.js map&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This zoomable interactive &lt;a href=&quot;http://janmilosh.github.io/adjuster-map/&quot;&gt;map&lt;/a&gt; was built with &lt;a href=&quot;http://d3js.org/&quot;&gt;D3.js&lt;/a&gt; for an insurance adjusting service website. Clicking on a state causes it to zoom to fit the map area. There is a tooltip feature that shows the number of insurance adjusters in a city (on hover).&lt;/p&gt;
 
@@ -182,8 +182,8 @@
 &lt;p&gt;The map is in service &lt;a href=&quot;http://www.mariposaltd.com/index.php?/services/coverage&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 12 Apr 2014 00:00:00 -0400</pubDate>
-        <link>http://0.0.0.0:4000/interactive-d3js-map.html</link>
-        <guid isPermaLink="true">http://0.0.0.0:4000/interactive-d3js-map.html</guid>
+        <link>https://jmilosh.github.io/interactive-d3js-map.html</link>
+        <guid isPermaLink="true">https://jmilosh.github.io/interactive-d3js-map.html</guid>
         
         
         <category>d3.js</category>

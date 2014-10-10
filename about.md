@@ -17,7 +17,6 @@ I've used many technologies in these projects, including:
 - Firebase
 - Django/Python
 - Jekyll (this site)
-- WordPress
 - Vagrant
 - Grunt
 - Gulp
@@ -26,8 +25,6 @@ I've used many technologies in these projects, including:
 - Digital Ocean/Nginx
 
 Currently, I work primarily with AngularJS and Python (Django), but continue to explore various technologies through personal projects and tutorials. Other technologies that I've worked with that aren't represented here are the MEAN stack and Ruby/Rails.
-
-I've included several WordPress projects&mdash;my early Web consulting work consisted of developing custom WordPress sites for small business clients.
 
 Also included are several of my first JavaScript projects which were built in pure JavaScript (no jQuery).
 
