@@ -246,6 +246,7 @@ button.quantity {
   background: #524094;
   border: none;
   cursor: default;
+  padding-bottom: 1px;
 }
 
 button {

@@ -19,7 +19,7 @@ $ jekyll serve -w --config _dev_config.yml
 To publish:
 
 ```sh
-$ rake blog:publish
+$ bundle exec rake blog:publish
  ```
 
 References:
